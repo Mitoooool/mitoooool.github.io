@@ -1,5 +1,7 @@
 (() => {
  const cards=[...document.querySelectorAll('.member-card')];
+ // Index only the dates actually recorded; never infer missing education years.
+ cards.forEach(card=>{card.dataset.search+=' '+[...card.querySelectorAll('.education-history strong')].map(n=>n.textContent).join(' ');});
  const search=document.getElementById('member-search');
  const buttons=[...document.querySelectorAll('[data-stage-filter]')];
  let stage='all';
