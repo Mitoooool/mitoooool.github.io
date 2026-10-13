@@ -17,3 +17,4 @@
 @media(max-width:1000px){.publication{grid-template-columns:minmax(0,260px) minmax(0,1fr);gap:30px}.publication-body h3{font-size:21px}}
 @media(max-width:700px){.publication{grid-template-columns:1fr;gap:22px;padding-block:30px}.publication-status{flex-direction:column;align-items:flex-start;gap:10px}.research-graphic{max-width:400px}.publication-body h3{font-size:21px}.publication-status .pub-year{font-size:31px}.publication-status .status-detail br{display:none}.publication-status .status-detail br:after{content:' · '}.research-graphic figcaption{font-size:10px}.publication-body{padding:0}}
 @media print{.graphic-enlarge{display:none}.publication{break-inside:avoid;grid-template-columns:240px minmax(0,1fr);gap:25px}}
+.publication-links,.resource-links{display:flex;flex-wrap:wrap;align-items:center;gap:10px 22px}.publication-links .text-link,.resource-links .text-link{margin:0}.resource-card h3{overflow-wrap:anywhere}
