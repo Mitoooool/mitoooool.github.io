@@ -1,0 +1,19 @@
+.publication{grid-template-columns:minmax(0,330px) minmax(0,1fr);gap:48px;padding-block:38px;align-items:start}
+.publication-status{display:flex;flex-direction:column;align-items:flex-start;gap:12px;min-width:0}
+.publication-status .pub-year{font-size:34px;line-height:1.2}
+.publication-status .pub-year-project{gap:15px;align-items:baseline}
+.publication-body{padding-top:3px;min-width:0}
+.publication-body .author-link{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
+.publication-body h3{font-size:24px;line-height:1.45}
+.publication-body>p{line-height:1.85}
+.research-graphic{width:100%;margin:4px 0 0}
+.graphic-open{display:block;position:relative;background:#fff;border:1px solid var(--line);text-decoration:none;overflow:hidden}
+.graphic-open img{display:block;width:100%;height:auto;object-fit:contain}
+.graphic-enlarge{display:block;text-align:right;padding:6px 10px;background:#f4f6f0;color:var(--muted);font-size:10px;line-height:1.5}
+.graphic-open:hover{border-color:#6e8a75}
+.research-graphic figcaption{display:flex;justify-content:space-between;gap:8px;font-size:10px;line-height:1.7;color:var(--muted);margin-top:8px}
+.research-graphic figcaption a{white-space:nowrap;text-underline-offset:3px}
+.publication-status .status-detail{font-size:11px;line-height:1.7;margin-top:1px}
+@media(max-width:1000px){.publication{grid-template-columns:minmax(0,260px) minmax(0,1fr);gap:30px}.publication-body h3{font-size:21px}}
+@media(max-width:700px){.publication{grid-template-columns:1fr;gap:22px;padding-block:30px}.publication-status{flex-direction:column;align-items:flex-start;gap:10px}.research-graphic{max-width:400px}.publication-body h3{font-size:21px}.publication-status .pub-year{font-size:31px}.publication-status .status-detail br{display:none}.publication-status .status-detail br:after{content:' · '}.research-graphic figcaption{font-size:10px}.publication-body{padding:0}}
+@media print{.graphic-enlarge{display:none}.publication{break-inside:avoid;grid-template-columns:240px minmax(0,1fr);gap:25px}}

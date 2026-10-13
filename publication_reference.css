@@ -1,0 +1,7 @@
+.citation-author{font-weight:400;color:inherit;border:0}
+.citation-author.is-highlighted{font-weight:700;color:var(--ink);background:#edf2e9;border-bottom:1px solid #8fa98b}
+.catalog-meta{display:flex;flex-wrap:wrap;gap:6px 9px}
+.coverage-label{text-decoration:none;background:#edf2e9;color:#294f3b}
+.partition-label{background:#f3f4f6;color:#59616e}
+.personal-catalog .catalog-people{display:block}
+.personal-catalog .catalog-person{max-width:410px}
