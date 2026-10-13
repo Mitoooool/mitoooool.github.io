@@ -3,3 +3,5 @@
 .member-top>div{min-width:0}.member-card h3{font-size:18px;line-height:1.5;overflow-wrap:anywhere}.member-card h3 .name-cn{display:block;font-size:16px;line-height:1.6;font-weight:400;margin-top:2px}.teacher-card h3{line-height:1.5}.teacher-card h3 .name-cn{display:block;font-size:18px;font-weight:400;margin-top:3px}.paper-meta .name-cn,.cofirst .name-cn{font-weight:400}.author-record .name-cn{font-family:"Microsoft YaHei",sans-serif;font-size:15px}
 .teacher-role{display:inline-block;font-size:11px;border:1px solid #c1cdbb;padding:2px 8px;margin-left:8px;color:#193f35;vertical-align:middle}.teacher-publications{margin:18px 0 0;font-size:12px}.teacher-publications a{text-decoration:none;border-bottom:1px dotted #829680;padding-bottom:3px}
 .member-honor{display:inline-block;font-size:11px;line-height:1.8;color:#66542f;background:#eee7d5;padding:2px 8px;margin:13px 0 3px}
+.member-status{display:inline-block;border:1px solid #d1d7ca;padding:0 6px;margin-left:6px;font-size:10px;line-height:1.8;color:#617064;vertical-align:baseline;white-space:nowrap}.member-status.is-current{color:#fff;background:#285747;border-color:#285747}
+
