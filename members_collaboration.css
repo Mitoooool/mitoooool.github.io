@@ -95,6 +95,10 @@
 .teacher-contact .contact-source,.collaborator-identifiers .contact-source{color:var(--muted);font-size:10px}
 .teacher-card h3,.teacher-affiliation{overflow-wrap:anywhere}
 .collaboration-contact{font-size:12px;line-height:1.8;margin:12px 0 0}
+.domestic-collaborations .collaboration-grid{grid-template-columns:1fr}
+.collaboration-contacts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px 24px}
+.contact-person{font-size:11px;color:var(--muted);margin:0 0 4px}
+.collaboration-teacher small{display:inline-block;white-space:normal}
 .collaborator-email{display:inline-block;border-bottom:1px dotted #a4b19b}
 .collaborator-identifiers{display:flex;flex-wrap:wrap;gap:8px 15px;margin-top:7px;font-size:11px}
 .external-institution-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
