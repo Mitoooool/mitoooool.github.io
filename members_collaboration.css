@@ -15,11 +15,19 @@
 .leader-section .teacher-publications{grid-column:3;grid-row:1/3;margin:0}
 .faculty-roster{margin:0 0 32px}
 .faculty-roster>h3{font-size:16px;font-weight:500;margin:0 0 18px}
+.faculty-heading{display:flex;justify-content:space-between;gap:16px;align-items:baseline;margin-bottom:18px}
+.faculty-heading h3{font-size:16px;font-weight:500;margin:0}
+.faculty-heading p,.sort-label{font-size:11px;color:var(--muted);margin:0}
+.directory-view{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:17px}
+.directory-view button{padding:7px 12px;border:1px solid var(--line);background:transparent;color:var(--ink);font:12px/1.6 "Microsoft YaHei",sans-serif;cursor:pointer}
+.directory-view button[aria-pressed=true]{background:#e7eee2;border-color:#9eaf95}
+.directory-view button:focus-visible{outline:3px solid #ac7e38;outline-offset:3px}
+.alphabetical-roster{border-top:1px solid var(--line);padding-top:24px;margin:28px 0 42px}
 .teacher-affiliation,.mentor-link{font-size:11px;color:var(--muted);line-height:1.8;margin:10px 0}
 .mentor-link a{text-decoration:none;border-bottom:1px dotted #829680}
 .group-affiliation{display:block;margin-top:4px}
 .leader-card .teacher-role{background:#193f35;color:#fff;border-color:#193f35}
-.directory-controls{display:grid;grid-template-columns:260px minmax(220px,1fr);gap:24px;align-items:end;margin-bottom:20px}
+.directory-controls{display:grid;grid-template-columns:minmax(200px,1fr) 120px minmax(220px,1.5fr);gap:18px;align-items:end;margin-bottom:20px}
 .team-select{font-size:11px;color:var(--muted)}
 .team-select span{display:block;margin-bottom:5px}
 .team-select select{width:100%;height:38px;border:1px solid var(--line);background:#fffefa;color:var(--ink);font:13px "Microsoft YaHei",sans-serif;padding:7px 11px}
@@ -37,5 +45,50 @@
 .collaboration-badge{display:table;font-size:10px;line-height:1.8;background:#ece9f0;color:#655673;border:1px solid #dcd5e3;padding:1px 7px;margin:13px 0 0}
 .participation-period,.member-affiliation{font-size:12px;color:var(--muted);line-height:1.8;margin:8px 0}
 .member-card .research-topic{margin-bottom:10px}
+.people-view-tabs{display:flex;gap:8px;border-bottom:1px solid var(--line);padding:0 0 12px}
+.people-view-tabs button{display:flex;align-items:baseline;gap:12px;cursor:pointer;color:var(--muted);border:1px solid transparent;background:transparent;padding:12px 19px;font:16px/1.6 "Microsoft YaHei",sans-serif}
+.people-view-tabs button span{font:12px Georgia,serif}
+.people-view-tabs button[aria-selected=true]{color:var(--ink);background:#e7eee2;border-color:#c2d0b9}
+.people-view-tabs button:focus-visible{outline:3px solid #ac7e38;outline-offset:3px}
+.people-panel{border-top:0;padding-top:28px}
+.college-select,.year-select{font-size:11px;color:var(--muted)}
+.college-select span,.year-select span{display:block;margin-bottom:5px}
+.college-select select,.year-select select{width:100%;height:38px;border:1px solid var(--line);background:#fffefa;color:var(--ink);font:13px "Microsoft YaHei",sans-serif;padding:7px 11px}
+.college-select select:focus-visible,.year-select select:focus-visible{outline:3px solid #ac7e38;outline-offset:3px}
+.collaborations-heading{margin:4px 0 32px}
+.collaborations-heading .eyebrow{font-size:10px;letter-spacing:1.5px;color:var(--muted);margin-bottom:9px}
+.collaborations-heading h2{font-size:28px;font-weight:500;margin:0 0 10px}
+.collaborations-heading>p:last-child{font-size:13px;color:var(--muted);margin:0}
+.collaboration-category{margin:0 0 36px}
+.collaboration-category-title{font-size:19px;font-weight:500;margin:0 0 18px}
+.institution-group{border:1px solid var(--line);background:#fffefa}
+.institution-heading{padding:15px 23px;border-bottom:1px solid var(--line);background:#edf1e8}
+.institution-heading h4{font-size:14px;font-weight:500;margin:0}
+.collaboration-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+.collaboration-card{display:flex;flex-direction:column;padding:25px 27px;min-width:0;scroll-margin-top:25px}
+.collaboration-card:nth-child(even){border-left:1px solid var(--line)}
+.collaboration-card:nth-child(n+3){border-top:1px solid var(--line)}
+.institution-group+.institution-group{margin-top:20px}
+.collaboration-card .group-kicker{font-size:9px;letter-spacing:1.3px}
+.collaboration-card h3{font-size:22px;font-weight:500;line-height:1.5;margin:8px 0 10px}
+.collaboration-teachers{display:flex;flex-wrap:wrap;gap:10px}
+.collaboration-teacher{font-size:13px;text-decoration:none;line-height:1.8;border-bottom:1px dotted #a4b19b}
+.collaboration-teacher small{font-size:10px;color:var(--muted);margin-left:8px;white-space:nowrap}
+.collaboration-summary{font-size:13px;line-height:1.9;color:#53645b;margin:18px 0 20px;min-height:50px}
+.collaboration-resources{list-style:none;padding:0;margin:0 0 22px}
+.collaboration-resources li{padding:8px 0;border-bottom:1px solid #e3e7dd;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.collaboration-resources a{font-size:12px;text-decoration:none;display:flex;gap:14px;min-width:0;overflow-wrap:anywhere}
+.collaboration-resources small{font-size:10px;color:var(--muted);white-space:nowrap}
+.collaboration-resource-pending{font-size:11px;color:var(--muted);margin:0 0 22px}
+.collaboration-participants{padding-top:14px;border-top:1px solid var(--line);margin-top:auto}
+.collaboration-participants h4{font-size:11px;font-weight:400;color:var(--muted);margin:0 0 10px}
+.collaboration-participants>div{display:flex;flex-wrap:wrap;gap:9px}
+.collaboration-participants a{display:flex;flex-wrap:wrap;gap:2px 5px;border:1px solid #d6dfce;background:#f4f6ef;padding:4px 9px;line-height:1.8;font-size:11px;text-decoration:none}
+.collaboration-participants a:hover{background:#e7eee2;border-color:#9eaf95}
+.external-collaborations{padding-top:26px;border-top:1px solid var(--line)}
+.collaboration-empty{padding:20px 23px;border:1px dashed #ccd5c5;background:transparent}
+.collaboration-empty p{font-size:12px;color:var(--muted);margin:0}
+.collaborations-panel{padding-bottom:24px}
 @media(max-width:900px){.teacher-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.leader-section .leader-card{grid-template-columns:1fr 1fr;gap:14px 24px}.leader-section .teacher-publications{grid-column:1/3;grid-row:3}}
 @media(max-width:650px){.teacher-grid{grid-template-columns:1fr;gap:15px}.teacher-card{min-height:0;padding:18px}.leader-section{padding-bottom:24px}.leader-section .leader-card{display:block;min-height:0;padding:22px}.leader-section .teacher-title{margin:16px 0 0}.leader-section .teacher-affiliation{margin:10px 0}.leader-section .teacher-publications{margin-top:18px}.directory-controls{grid-template-columns:1fr;gap:15px}.roster-group-heading{align-items:start}.roster-group-heading h3{font-size:20px}.roster-group{margin-bottom:30px}.members-intro h1{font-size:30px}}
+@media(max-width:650px){.people-view-tabs{gap:4px;padding-bottom:10px}.people-view-tabs button{flex:1;justify-content:center;padding:10px 7px;font-size:14px;gap:6px;flex-wrap:wrap}.people-view-tabs button span{font-size:11px}.people-panel{padding-top:23px}.collaborations-heading h2{font-size:24px}.collaboration-grid{grid-template-columns:1fr}.collaboration-card{padding:22px 19px}.collaboration-card+.collaboration-card{border-left:0;border-top:1px solid var(--line)}.collaboration-card h3{font-size:20px}.institution-heading{padding:13px 19px}.collaboration-summary{min-height:0}.collaboration-resources li{flex-wrap:wrap;gap:2px 10px}.collaboration-resources a{font-size:12px}.collaboration-resources small{font-size:9px}}
