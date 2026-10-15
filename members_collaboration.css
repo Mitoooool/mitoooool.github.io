@@ -118,3 +118,5 @@
 .collaboration-motto{margin:20px 0 0;padding:0 0 0 18px;border-left:2px solid #c2d0b9}
 .collaboration-motto p{font-family:"Noto Serif SC","Source Han Serif SC","SimSun",serif;font-size:clamp(17px,1.6vw,21px);font-weight:400;line-height:1.9;color:var(--ink);margin:0}
 .collaboration-motto cite{display:block;margin-top:9px;font-size:12px;font-style:normal;line-height:1.7;color:var(--muted)}
+
+.faculty-roster .teacher-grid{grid-auto-rows:1fr}
