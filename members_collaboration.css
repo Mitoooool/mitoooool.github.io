@@ -98,6 +98,10 @@
 .domestic-collaborations .collaboration-grid{grid-template-columns:1fr}
 .collaboration-contacts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px 24px}
 .contact-person{font-size:11px;color:var(--muted);margin:0 0 4px}
+#collaboration-iocas .collaboration-contacts{grid-template-columns:1fr;gap:14px}
+#collaboration-iocas .collaboration-contact{margin:0}
+#collaboration-iocas .collaboration-contact+.collaboration-contact{border-top:1px solid var(--line);padding-top:17px}
+#collaboration-iocas .collaborator-email{margin-top:7px}
 .collaboration-teacher small{display:inline-block;white-space:normal}
 .collaborator-email{display:inline-block;border-bottom:1px dotted #a4b19b}
 .collaborator-identifiers{display:flex;flex-wrap:wrap;gap:8px 15px;margin-top:7px;font-size:11px}
