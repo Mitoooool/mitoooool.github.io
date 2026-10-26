@@ -7,7 +7,8 @@
     "authors": "Shi Haihe, Du Renzeng, Niu Gengyun, Wei Meicai",
     "journal": "Integrative Zoology",
     "doi": "10.1111/1749-4877.70228",
-    "status": "accepted",
+    "status": "published",
+    "published_online": "2026-10-24",
     "identifier": null,
     "research_tags": [
       "线粒体基因组"
@@ -33,7 +34,7 @@
     "source_ids": [
       "niu-personal-123"
     ],
-    "citation": "Shi Haihe, Du Renzeng, Niu Gengyun, Wei Meicai. 2026. MitoOmicsDB: A Web Platform for Mitochondrial Genome Curation and Gene Order Analysis Across Metazoa. Integrative Zoology · Accepted manuscript.",
+    "citation": "Shi Haihe, Du Renzeng, Niu Gengyun, Wei Meicai. 2026. MitoOmicsDB: A Web Platform for Mitochondrial Genome Curation and Gene Order Analysis Across Metazoa. Integrative Zoology. https://doi.org/10.1111/1749-4877.70228",
     "project_url": "https://www.mitoooool.com/db/"
   },
   {
