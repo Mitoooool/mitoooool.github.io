@@ -120,3 +120,7 @@
 .collaboration-motto cite{display:block;margin-top:9px;font-size:12px;font-style:normal;line-height:1.7;color:var(--muted)}
 
 .faculty-roster .teacher-grid{grid-auto-rows:1fr}
+
+#collaboration-wildlife{grid-column:1/-1}
+#collaboration-wildlife .collaboration-team-name{font-size:12px;line-height:1.8;color:var(--muted);margin:0 0 16px;overflow-wrap:anywhere}
+#collaboration-wildlife .collaboration-teacher{border-bottom:0}
