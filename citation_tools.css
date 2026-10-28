@@ -1,0 +1,16 @@
+.citation-block{margin:18px 0 0;padding:14px 16px;border:1px solid #d3dccd;background:#f3f5ef;min-width:0}
+.citation-label{margin:0 0 7px;font-size:11px;color:#52685a;letter-spacing:.04em}
+.citation-text{margin:0;font:14px/1.85 Georgia,"Times New Roman","Microsoft YaHei",serif;color:#233f35;overflow-wrap:anywhere;user-select:text}
+.reference-tools{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;margin-top:10px}
+.reference-copy{font:12px/1.6 "Microsoft YaHei",sans-serif;color:#193f35;border:1px solid #aabda3;background:#fffefa;border-radius:0;padding:6px 12px;cursor:pointer}
+.reference-copy:hover{background:#e7eee1;border-color:#526b59}
+.reference-copy:focus-visible{outline:3px solid #ac7e38;outline-offset:3px}
+.reference-copy:disabled{opacity:.65;cursor:wait}
+.reference-status{font-size:11px;line-height:1.7;color:#52685a}
+.citation-note{margin:8px 0 0;font-size:11px;line-height:1.7;color:#686448}
+.citation-details{margin:12px 0 0;font-size:12px}
+.citation-details summary{cursor:pointer;color:#52685a}
+.citation-details .citation-text{margin-top:10px}
+.teacher-email{font-size:13px;line-height:1.8;margin:12px 0 0;overflow-wrap:anywhere}
+.teacher-email a{text-decoration:none;border-bottom:1px dotted #829680}
+@media(max-width:600px){.citation-block{padding:12px}.citation-text{font-size:13px}.reference-copy{min-height:40px}}

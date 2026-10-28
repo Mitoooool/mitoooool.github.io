@@ -4,7 +4,7 @@
     "year": 2026,
     "kind": "article",
     "title": "MitoOmicsDB: A Web Platform for Mitochondrial Genome Curation and Gene Order Analysis Across Metazoa",
-    "authors": "Shi Haihe, Du Renzeng, Niu Gengyun, Wei Meicai",
+    "authors": "Shi Haihe; Du Renzeng; Niu Gengyun; Wei Meicai",
     "journal": "Integrative Zoology",
     "doi": "10.1111/1749-4877.70228",
     "status": "published",
@@ -34,8 +34,13 @@
     "source_ids": [
       "niu-personal-123"
     ],
-    "citation": "Shi Haihe, Du Renzeng, Niu Gengyun, Wei Meicai. 2026. MitoOmicsDB: A Web Platform for Mitochondrial Genome Curation and Gene Order Analysis Across Metazoa. Integrative Zoology. https://doi.org/10.1111/1749-4877.70228",
-    "project_url": "https://www.mitoooool.com/db/"
+    "citation": "Shi Haihe; Du Renzeng; Niu Gengyun; Wei Meicai. 2026. MitoOmicsDB: A Web Platform for Mitochondrial Genome Curation and Gene Order Analysis Across Metazoa. Integrative Zoology. Advance online publication. https://doi.org/10.1111/1749-4877.70228",
+    "project_url": "https://www.mitoooool.com/db/",
+    "citation_note": "在线发表；卷期、页码以出版方后续编排为准。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null
   },
   {
     "id": "doi-10-64898-2026-08-28-747467",
@@ -71,7 +76,12 @@
     "source_ids": [
       "doi-10-64898-2026-08-28-747467"
     ],
-    "citation": "Zhou Yunqian, Gong Lin, Niu Gengyun, Shi Haihe, Li Xinzheng, Gutell Robin, Wei Meicai. 2026. Secondary Structure Diversity of the Mitochondrial Small-Subunit rRNA in Porifera. bioRxiv."
+    "citation": "Zhou Yunqian, Gong Lin, Niu Gengyun, Shi Haihe, Li Xinzheng, Gutell Robin, Wei Meicai. 2026. Secondary Structure Diversity of the Mitochondrial Small-Subunit rRNA in Porifera. bioRxiv. Preprint, v1. https://doi.org/10.64898/2026.08.28.747467",
+    "citation_note": "预印本，未经同行评审；无期刊卷期和页码。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null
   },
   {
     "id": "doi-10-1111-1744-7917-70290",
@@ -178,7 +188,7 @@
     "year": 2026,
     "kind": "article",
     "title": "Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Eriocampinae stat. nov.",
-    "authors": "Wan Siying, Li Xiao, Tan Beibei, Wei Meicai, Niu Gengyun",
+    "authors": "Wan Siying; Li Xiao; Tan Beibei; Wei Meicai; Niu Gengyun",
     "journal": "Biology",
     "doi": "10.3390/biology15020202",
     "status": "published",
@@ -226,14 +236,19 @@
       "main-570",
       "niu-personal-125"
     ],
-    "citation": "Wan Siying, Li Xiao, Tan Beibei, Wei Meicai, Niu Gengyun. 2026. Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Eriocampinae stat. nov. Biology, 15(2): 202."
+    "citation": "Wan Siying; Li Xiao; Tan Beibei; Wei Meicai; Niu Gengyun. 2026. Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Eriocampinae stat. nov. Biology, 15(2): 202. https://doi.org/10.3390/biology15020202",
+    "citation_note": "",
+    "volume": "15",
+    "issue": "2",
+    "pages": "202",
+    "article_number": null
   },
   {
     "id": "main-560",
     "year": 2025,
     "kind": "article",
     "title": "Refining the Vertebrate Mitochondrial 12S rRNA Secondary Structure by Comparative Analysis",
-    "authors": "Li Fengxia, Niu Gengyun, Du Renzeng, Wan Kun, Smith David Roy, Wei Meicai, Shi Haihe",
+    "authors": "Li Fengxia; Niu Gengyun; Du Renzeng; Wan Kun; Smith David Roy; Wei Meicai; Shi Haihe",
     "journal": "Integrative Zoology",
     "doi": "10.1111/1749-4877.70039",
     "status": "published",
@@ -276,7 +291,12 @@
       "main-560",
       "niu-personal-120"
     ],
-    "citation": "Li Fengxia, Niu Gengyun, Du Renzeng, Wan Kun, Smith David Roy, Wei Meicai, Shi Haihe. 2025. Refining the Vertebrate Mitochondrial 12S rRNA Secondary Structure by Comparative Analysis. Integrative Zoology · Online publication."
+    "citation": "Li Fengxia; Niu Gengyun; Du Renzeng; Wan Kun; Smith David Roy; Wei Meicai; Shi Haihe. 2025. Refining the Vertebrate Mitochondrial 12S rRNA Secondary Structure by Comparative Analysis. Integrative Zoology. Advance online publication. https://doi.org/10.1111/1749-4877.70039",
+    "citation_note": "在线发表；卷期、页码以出版方后续编排为准。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null
   },
   {
     "id": "main-561",
@@ -355,7 +375,7 @@
     "year": 2025,
     "kind": "article",
     "title": "Enhanced dynamicity: evolutionary insights into amphibian mitogenomes architecture",
-    "authors": "Xiao Yi, Niu Gengyun, Shi Haihe, Wang Zhenyu, Du Renzeng, Li Yankuo, Wei Meicai",
+    "authors": "Xiao Yi; Niu Gengyun; Shi Haihe; Wang Zhenyu; Du Renzeng; Li Yankuo; Wei Meicai",
     "journal": "BMC Genomics",
     "doi": "10.1186/s12864-025-11480-6",
     "status": "published",
@@ -403,7 +423,12 @@
       "main-554",
       "niu-personal-117"
     ],
-    "citation": "Xiao Yi, Niu Gengyun, Shi Haihe, Wang Zhenyu, Du Renzeng, Li Yankuo, Wei Meicai. 2025. Enhanced dynamicity: evolutionary insights into amphibian mitogenomes architecture. BMC Genomics, 26(1): 261."
+    "citation": "Xiao Yi; Niu Gengyun; Shi Haihe; Wang Zhenyu; Du Renzeng; Li Yankuo; Wei Meicai. 2025. Enhanced dynamicity: evolutionary insights into amphibian mitogenomes architecture. BMC Genomics, 26(1): 261. https://doi.org/10.1186/s12864-025-11480-6",
+    "citation_note": "",
+    "volume": "26",
+    "issue": "1",
+    "pages": null,
+    "article_number": "261"
   },
   {
     "id": "main-549",
@@ -578,7 +603,7 @@
     "year": 2024,
     "kind": "article",
     "title": "qGO: a novel method for quantifying the diversity of mitochondrial genome organization",
-    "authors": "Shi Haihe, Yang Shuai, Wei Meicai, Niu Gengyun",
+    "authors": "Shi Haihe; Yang Shuai; Wei Meicai; Niu Gengyun",
     "journal": "BMC Genomics",
     "doi": "10.1186/s12864-024-11006-6",
     "status": "published",
@@ -628,7 +653,12 @@
       "main-535",
       "niu-personal-116"
     ],
-    "citation": "Shi Haihe, Yang Shuai, Wei Meicai, Niu Gengyun. 2024. qGO: a novel method for quantifying the diversity of mitochondrial genome organization. BMC Genomics, 25(1): 1097."
+    "citation": "Shi Haihe; Yang Shuai; Wei Meicai; Niu Gengyun. 2024. qGO: a novel method for quantifying the diversity of mitochondrial genome organization. BMC Genomics, 25(1): 1097. https://doi.org/10.1186/s12864-024-11006-6",
+    "citation_note": "",
+    "volume": "25",
+    "issue": "1",
+    "pages": null,
+    "article_number": "1097"
   },
   {
     "id": "main-534",
@@ -934,7 +964,12 @@
       "doi-10-1101-2023-03-14-532325",
       "niu-personal-preprint-111"
     ],
-    "citation": "Li Min, Niu Gengyun, Xu Min, Dai Mengxuan, Jiang Xinghong, Ma Yong, Meng Guanliang, Wei Meicai. 2023. Mitochondrial genome evolution in the Diprionidae: Major gene rearrangement in the basal Hymenoptera. bioRxiv."
+    "citation": "Li Min, Niu Gengyun, Xu Min, Dai Mengxuan, Jiang Xinghong, Ma Yong, Meng Guanliang, Wei Meicai. 2023. Mitochondrial genome evolution in the Diprionidae: Major gene rearrangement in the basal Hymenoptera. bioRxiv. Preprint, v1. https://doi.org/10.1101/2023.03.14.532325",
+    "citation_note": "预印本，未经同行评审；无期刊卷期和页码。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null
   },
   {
     "id": "main-521",
@@ -1182,15 +1217,20 @@
     "source_ids": [
       "chinaxiv-202303-00021-v1"
     ],
-    "citation": "Niu Gengyun, Cheng Yalan, Yan Yuchen, Sun Zemin, Wan Siying, Wei Meicai. 2023. Survivors crossed the K-Pg extinction line and radiated in the Quaternary: Phylogenetic genomics of the Cimbicidae. ChinaXiv:202303.00021v1.",
-    "official_url": "https://chinaxiv.org/abs/202303.00021"
+    "citation": "Niu Gengyun, Cheng Yalan, Yan Yuchen, Sun Zemin, Wan Siying, Wei Meicai. 2023. Survivors crossed the K-Pg extinction line and radiated in the Quaternary: Phylogenetic genomics of the Cimbicidae. ChinaXiv. ChinaXiv:202303.00021v1. https://doi.org/10.12074/202303.00021v1",
+    "official_url": "https://chinaxiv.org/abs/202303.00021",
+    "citation_note": "预印本，未经同行评审；无期刊卷期和页码。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null
   },
   {
     "id": "main-499",
     "year": 2022,
     "kind": "article",
     "title": "Arge aurora Wei sp. nov. (Hymenoptera, Argidae) from China with a key to East Asian species of Arge nipponensis group",
-    "authors": "Wan SY, Wu D, Niu GY, Wei MC.",
+    "authors": "Wan Siying; Wu Duo; Niu Gengyun; Liu Ting; Wei Meicai",
     "journal": null,
     "doi": "10.1111/1748-5967.12563",
     "status": "published",
@@ -1247,7 +1287,12 @@
       "main-499",
       "niu-personal-104"
     ],
-    "citation": "Wan SY, Wu D, Niu GY, Wei MC. 2022. Arge aurora sp. nov. (Hymenoptera, Argidae) from China with a key to East Asian species of Arge nipponensis group. Entomological Research, 52: 33–43."
+    "citation": "Wan Siying; Wu Duo; Niu Gengyun; Liu Ting; Wei Meicai. 2022. Arge aurora Wei sp. nov. (Hymenoptera, Argidae) from China with a key to East Asian species of Arge nipponensis group. Entomological Research, 52(1): 33-43. https://doi.org/10.1111/1748-5967.12563",
+    "citation_note": "",
+    "volume": "52",
+    "issue": "1",
+    "pages": "33-43",
+    "article_number": null
   },
   {
     "id": "main-500",
@@ -1555,7 +1600,7 @@
     "year": 2022,
     "kind": "article",
     "title": "Phylogenomic Analyses of the Tenthredinoidea Support the Familial Rank of Athaliidae (Insecta, Tenthredinoidea)",
-    "authors": "Niu Gengyun, Mahir Budak, Ertan Mahir Korkmaz, Özgül Doğan, André Nel, Wan Siying, Cai Chenyang, Corentin Jouault, Li Min, Wei Meicai",
+    "authors": "Niu Gengyun; Budak Mahir; Korkmaz Ertan Mahir; Doğan Özgül; Nel André; Wan Siying; Cai Chenyang; Jouault Corentin; Li Min; Wei Meicai",
     "journal": "Insects",
     "doi": "10.3390/insects13100858",
     "status": "published",
@@ -1621,7 +1666,12 @@
       "main-512",
       "niu-personal-108"
     ],
-    "citation": "Niu Gengyun, Mahir Budak, Ertan Mahir Korkmaz, Özgül Doğan, André Nel, Wan Siying, Cai Chenyang, Corentin Jouault, Li Min, Wei Meicai. 2022. Phylogenomic Analyses of the Tenthredinoidea Support the Familial Rank of Athaliidae (Insecta, Tenthredinoidea). Insects, 13(10): 858."
+    "citation": "Niu Gengyun; Budak Mahir; Korkmaz Ertan Mahir; Doğan Özgül; Nel André; Wan Siying; Cai Chenyang; Jouault Corentin; Li Min; Wei Meicai. 2022. Phylogenomic Analyses of the Tenthredinoidea Support the Familial Rank of Athaliidae (Insecta, Tenthredinoidea). Insects, 13(10): 858. https://doi.org/10.3390/insects13100858",
+    "citation_note": "",
+    "volume": "13",
+    "issue": "10",
+    "pages": "858",
+    "article_number": null
   },
   {
     "id": "main-516",
@@ -1831,7 +1881,7 @@
     "year": 2021,
     "kind": "article",
     "title": "The first mitochondrial genome of a fern sawfly, Strongylogaster xanthocera Stephens, 1835 (Hymenoptera: Tenthredinidae)",
-    "authors": "Liu YH, Wei MC, Niu GY.",
+    "authors": "Liu Yihan; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2021.1886019",
     "status": "published",
@@ -1874,14 +1924,19 @@
       "main-470",
       "niu-personal-86"
     ],
-    "citation": "Liu YH, Wei MC, Niu GY. 2021. The first mitochondrial genome of a fern sawfly, Strongylogaster xanthocera Stephens, 1835 (Hymenoptera: Tenthredinidae). Mitochondrial DNA Part B, 6: 3, 902–904."
+    "citation": "Liu Yihan; Wei Meicai; Niu Gengyun. 2021. The first mitochondrial genome of a fern sawfly, Strongylogaster xanthocera Stephens, 1835 (Hymenoptera: Tenthredinidae). Mitochondrial DNA Part B, 6(3): 902-904. https://doi.org/10.1080/23802359.2021.1886019",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "3",
+    "pages": "902-904",
+    "article_number": null
   },
   {
     "id": "main-471",
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome sequence of Sinopoppia nigroflagella Wei, 1997 (Hymenoptera: Tenthredinidae) reveals a new gene order",
-    "authors": "Wan SY, Wei MC, Niu GY.",
+    "authors": "Wan Siying; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2021.1891989",
     "status": "published",
@@ -1924,14 +1979,19 @@
       "main-471",
       "niu-personal-87"
     ],
-    "citation": "Wan SY, Wei MC, Niu GY. 2021. The complete mitochondrial genome sequence of Sinopoppia nigroflagella Wei, 1997 (Hymenoptera: Tenthredinidae) reveals a new gene order. Mitochondrial DNA Part B, 6: 3, 999–1000."
+    "citation": "Wan Siying; Wei Meicai; Niu Gengyun. 2021. The complete mitochondrial genome sequence of Sinopoppia nigroflagella Wei, 1997 (Hymenoptera: Tenthredinidae) reveals a new gene order. Mitochondrial DNA Part B, 6(3): 999-1000. https://doi.org/10.1080/23802359.2021.1891989",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "3",
+    "pages": "999-1000",
+    "article_number": null
   },
   {
     "id": "main-472",
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome of Allantus togatus (Panzer, 1801), in view of possible cryptic species",
-    "authors": "Yang JY, Sun ZM, Wei MC, Niu GY.",
+    "authors": "Yang Jiyun; Sun Zemin; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2021.1899875",
     "status": "published",
@@ -1979,7 +2039,12 @@
       "main-472",
       "niu-personal-88"
     ],
-    "citation": "Yang JY, Sun ZM, Wei MC, Niu GY. 2021. The complete mitochondrial genome of Allantus togatus (Panzer, 1801), in view of possible cryptic species. Mitochondrial DNA Part B, 6: 3, 1114–1115."
+    "citation": "Yang Jiyun; Sun Zemin; Wei Meicai; Niu Gengyun. 2021. The complete mitochondrial genome of Allantus togatus (Panzer, 1801), in view of possible cryptic species. Mitochondrial DNA Part B, 6(3): 1114-1115. https://doi.org/10.1080/23802359.2021.1899875",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "3",
+    "pages": "1114-1115",
+    "article_number": null
   },
   {
     "id": "main-476",
@@ -2043,7 +2108,7 @@
     "year": 2021,
     "kind": "article",
     "title": "Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Megabelesesinae as a Subfamily",
-    "authors": "Niu Gengyun, Jiang Sijia, Özgül Doğan, Ertan Mahir Korkmaz, Mahir Budak, Wu Duo, Wei Meicai",
+    "authors": "Niu Gengyun; Jiang Sijia; Doğan Özgül; Korkmaz Ertan Mahir; Budak Mahir; Wu Duo; Wei Meicai",
     "journal": "Insects",
     "doi": "10.3390/insects12060495",
     "status": "published",
@@ -2100,14 +2165,19 @@
       "main-477",
       "niu-personal-93"
     ],
-    "citation": "Niu Gengyun, Jiang Sijia, Özgül Doğan, Ertan Mahir Korkmaz, Mahir Budak, Wu Duo, Wei Meicai. 2021. Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Megabelesesinae as a Subfamily. Insects, 12(6): 495."
+    "citation": "Niu Gengyun; Jiang Sijia; Doğan Özgül; Korkmaz Ertan Mahir; Budak Mahir; Wu Duo; Wei Meicai. 2021. Mitochondrial Phylogenomics of Tenthredinidae (Hymenoptera: Tenthredinoidea) Supports the Monophyly of Megabelesesinae as a Subfamily. Insects, 12(6): 495. https://doi.org/10.3390/insects12060495",
+    "citation_note": "",
+    "volume": "12",
+    "issue": "6",
+    "pages": "495",
+    "article_number": null
   },
   {
     "id": "main-478",
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome of Cimbex luteus (Hymenoptera: Cimbicidae) and phylogenetic analysis",
-    "authors": "Yan YC, Li K, Liu SY, Niu GY & Wei MC.",
+    "authors": "Yan Yuchen; Li Ke; Liu Siyi; Niu Gengyun; Wei Meicai",
     "journal": null,
     "doi": "10.1080/23802359.2021.1907800",
     "status": "published",
@@ -2138,14 +2208,19 @@
       "main-478",
       "niu-personal-89"
     ],
-    "citation": "Yan YC, Li K, Liu SY, Niu GY & Wei MC. 2021. The complete mitochondrial genome of Cimbex luteus (Hymenoptera: Cimbicidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6: 7, 2031–2032."
+    "citation": "Yan Yuchen; Li Ke; Liu Siyi; Niu Gengyun; Wei Meicai. 2021. The complete mitochondrial genome of Cimbex luteus (Hymenoptera: Cimbicidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6(7): 2031-2032. https://doi.org/10.1080/23802359.2021.1907800",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "7",
+    "pages": "2031-2032",
+    "article_number": null
   },
   {
     "id": "main-479",
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome of Taxoblenus sinicus Wei & Nie, 1999 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
-    "authors": "Sun ZM, Wei MC & Niu GY.",
+    "authors": "Sun Zemin; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2021.1942271",
     "status": "published",
@@ -2188,7 +2263,12 @@
       "main-479",
       "niu-personal-96"
     ],
-    "citation": "Sun ZM, Wei MC & Niu GY. 2021. The complete mitochondrial genome of Taxoblenus sinicus Wei & Nie, 1999 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6: 7, 2061–2062."
+    "citation": "Sun Zemin; Wei Meicai; Niu Gengyun. 2021. The complete mitochondrial genome of Taxoblenus sinicus Wei & Nie, 1999 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6(7): 2061-2062. https://doi.org/10.1080/23802359.2021.1942271",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "7",
+    "pages": "2061-2062",
+    "article_number": null
   },
   {
     "id": "main-480",
@@ -2256,7 +2336,7 @@
     "year": 2021,
     "kind": "article",
     "title": "Characterization of mitochondrial genomes of three new species: Leptocimbex praiaformis, L. clavicornis, and L. yanniae (Hymenoptera: Cimbicidae)",
-    "authors": "Cheng YL, Yan YC, Wei MC & Niu GY.",
+    "authors": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1111/1748-5967.12501",
     "status": "published",
@@ -2311,7 +2391,12 @@
       "main-483",
       "niu-personal-85"
     ],
-    "citation": "Cheng YL, Yan YC, Wei MC & Niu GY. 2021. Characterization of mitochondrial genomes of three new species: Leptocimbex praiaformis, L. clavicornis, and L. yanniae (Hymenoptera: Cimbicidae). Entomological Research, 51: 287–304."
+    "citation": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun. 2021. Characterization of mitochondrial genomes of three new species: Leptocimbex praiaformis, L. clavicornis, and L. yanniae (Hymenoptera: Cimbicidae). Entomological Research, 51(6): 287-304. https://doi.org/10.1111/1748-5967.12501",
+    "citation_note": "",
+    "volume": "51",
+    "issue": "6",
+    "pages": "287-304",
+    "article_number": null
   },
   {
     "id": "main-485",
@@ -2368,7 +2453,7 @@
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome of Moricella rufonota Rohwer, 1916 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
-    "authors": "Tan Beibei, Wei Meicai, Niu Gengyun",
+    "authors": "Tan Beibei; Wei Meicai; Niu Gengyun",
     "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1920859",
     "status": "published",
@@ -2411,7 +2496,12 @@
       "main-486",
       "niu-personal-91"
     ],
-    "citation": "Tan Beibei, Wei Meicai, Niu Gengyun. 2021. The complete mitochondrial genome of Moricella rufonota Rohwer, 1916 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6(8): 2285–2287."
+    "citation": "Tan Beibei; Wei Meicai; Niu Gengyun. 2021. The complete mitochondrial genome of Moricella rufonota Rohwer, 1916 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 6(8): 2285-2287. https://doi.org/10.1080/23802359.2021.1920859",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "8",
+    "pages": "2285-2287",
+    "article_number": null
   },
   {
     "id": "main-487",
@@ -2653,7 +2743,7 @@
     "year": 2021,
     "kind": "article",
     "title": "The complete mitochondrial genome sequence of Taxonus zhangi Wei, 1997 (Hymenoptera: Tenthredinidae) with phylogenetic analysis",
-    "authors": "Xu M, Tan BB, Wei MC, Niu GY.",
+    "authors": "Xu Min; Tan Beibei; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2021.1987173",
     "status": "published",
@@ -2696,7 +2786,12 @@
       "main-494",
       "niu-personal-99"
     ],
-    "citation": "Xu M, Tan BB, Wei MC, Niu GY. 2021. The complete mitochondrial genome sequence of Taxonus zhangi Wei, 1997 (Hymenoptera: Tenthredinidae) with phylogenetic analysis. Mitochondrial DNA Part B, 6: 11, 3188–3189."
+    "citation": "Xu Min; Tan Beibei; Wei Meicai; Niu Gengyun. 2021. The complete mitochondrial genome sequence of Taxonus zhangi Wei, 1997 (Hymenoptera: Tenthredinidae) with phylogenetic analysis. Mitochondrial DNA Part B, 6(11): 3188-3189. https://doi.org/10.1080/23802359.2021.1987173",
+    "citation_note": "",
+    "volume": "6",
+    "issue": "11",
+    "pages": "3188-3189",
+    "article_number": null
   },
   {
     "id": "main-495",
@@ -2834,7 +2929,7 @@
     "year": 2020,
     "kind": "article",
     "title": "Nearly complete mitochondrial genome of Trichiosoma vitellina Linné, 1760 (Hymenoptera: Tenthredinidae): sequencing and phylogenetic analysis",
-    "authors": "Chen YP, Wei MC, Yang HL, Wang HN, Niu GY.",
+    "authors": "Chen Yaping; Wei Meicai; Yang Huilin; Wang Hannan; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2020.1715860",
     "status": "published",
@@ -2877,7 +2972,12 @@
       "main-452",
       "niu-personal-76"
     ],
-    "citation": "Chen YP, Wei MC, Yang HL, Wang HN, Niu GY. 2020. Nearly complete mitochondrial genome of Trichiosoma vitellina Linné, 1760 (Hymenoptera: Tenthredinidae): sequencing and phylogenetic analysis. Mitochondrial DNA Part B Resources, 5(1): 802–803."
+    "citation": "Chen Yaping; Wei Meicai; Yang Huilin; Wang Hannan; Niu Gengyun. 2020. Nearly complete mitochondrial genome of Trichiosoma vitellina Linné, 1760 (Hymenoptera: Tenthredinidae): sequencing and phylogenetic analysis. Mitochondrial DNA Part B, 5(1): 802-803. https://doi.org/10.1080/23802359.2020.1715860",
+    "citation_note": "",
+    "volume": "5",
+    "issue": "1",
+    "pages": "802-803",
+    "article_number": null
   },
   {
     "id": "main-455",
@@ -3067,7 +3167,7 @@
     "year": 2020,
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Eutomostethus vegetus Konow, 1898 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
-    "authors": "Li Y, Wei MC, Liu JF, Niu GY.",
+    "authors": "Li Ya; Wei Meicai; Liu Jiafen; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2020.1797563",
     "status": "published",
@@ -3098,14 +3198,19 @@
       "main-460",
       "niu-personal-80"
     ],
-    "citation": "Li Y, Wei MC, Liu JF, Niu GY. 2020. Characterization of the mitochondrial genome of Eutomostethus vegetus Konow, 1898 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B Resources, 5(3): 3051–3052."
+    "citation": "Li Ya; Wei Meicai; Liu Jiafen; Niu Gengyun. 2020. Characterization of the mitochondrial genome of Eutomostethus vegetus Konow, 1898 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 5(3): 3033-3034. https://doi.org/10.1080/23802359.2020.1797563",
+    "citation_note": "",
+    "volume": "5",
+    "issue": "3",
+    "pages": "3033-3034",
+    "article_number": null
   },
   {
     "id": "main-461",
     "year": 2020,
     "kind": "article",
     "title": "The complete mitochondrial genome of Praia tianmunica (Hymenoptera: Cimbicidae) with related phylogenetic analysis",
-    "authors": "Cheng YL, Yan YC, Wei MC, Niu GY.",
+    "authors": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2020.1797576",
     "status": "published",
@@ -3136,14 +3241,19 @@
       "main-461",
       "niu-personal-81"
     ],
-    "citation": "Cheng YL, Yan YC, Wei MC, Niu GY. 2020. The complete mitochondrial genome of Praia tianmunica (Hymenoptera: Cimbicidae) with related phylogenetic analysis. Mitochondrial DNA Part B Resources, 5(3): 3055–3056."
+    "citation": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun. 2020. The complete mitochondrial genome of Praia tianmunica (Hymenoptera: Cimbicidae) with related phylogenetic analysis. Mitochondrial DNA Part B, 5(3): 3037-3038. https://doi.org/10.1080/23802359.2020.1797576",
+    "citation_note": "",
+    "volume": "5",
+    "issue": "3",
+    "pages": "3037-3038",
+    "article_number": null
   },
   {
     "id": "main-462",
     "year": 2020,
     "kind": "article",
     "title": "The nearly complete mitochondrial genome of Colochela zhongi Wei, 2016 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
-    "authors": "Wu D, Wang HN, Wei MC, Niu GY.",
+    "authors": "Wu Duo; Wang Hannan; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2020.1820393",
     "status": "published",
@@ -3186,7 +3296,12 @@
       "main-462",
       "niu-personal-82"
     ],
-    "citation": "Wu D, Wang HN, Wei MC, Niu GY. 2020. The nearly complete mitochondrial genome of Colochela zhongi Wei, 2016 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B Resources, 5(3): 3359–3360."
+    "citation": "Wu Duo; Wang Hannan; Wei Meicai; Niu Gengyun. 2020. The nearly complete mitochondrial genome of Colochela zhongi Wei, 2016 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 5(3): 3341-3342. https://doi.org/10.1080/23802359.2020.1820393",
+    "citation_note": "",
+    "volume": "5",
+    "issue": "3",
+    "pages": "3341-3342",
+    "article_number": null
   },
   {
     "id": "main-466",
@@ -3248,7 +3363,7 @@
     "year": 2019,
     "kind": "article",
     "title": "The first mitogenomes of the superfamily Pamphilioidea (Hymenoptera: Symphyta): Mitogenome architecture and phylogenetic inference",
-    "authors": "Niu, G., Korkmaz, E. M., Dogan, O., Zhang, Y., Aydemir M.N., Budak, M., Du, S., Başıbüyük, H.H. & Wei, M*.",
+    "authors": "Niu Gengyun; Korkmaz Ertan Mahir; Doğan Özgül; Zhang Yaoyao; Aydemir Merve Nur; Budak Mahir; Du Shiyu; Başıbüyük Hasan Hüseyin; Wei Meicai",
     "journal": null,
     "doi": "10.1016/j.ijbiomac.2018.11.129",
     "status": "published",
@@ -3292,7 +3407,12 @@
       "main-424",
       "niu-personal-65"
     ],
-    "citation": "Niu, G., Korkmaz, E. M., Dogan, O., Zhang, Y., Aydemir M.N., Budak, M., Du, S., Başıbüyük, H.H. & Wei, M*. 2019. The first mitogenomes of the superfamily Pamphilioidea (Hymenoptera: Symphyta): Mitogenome architecture and phylogenetic inference. International Journal of Biological Macromolecules 124: 185–199."
+    "citation": "Niu Gengyun; Korkmaz Ertan Mahir; Doğan Özgül; Zhang Yaoyao; Aydemir Merve Nur; Budak Mahir; Du Shiyu; Başıbüyük Hasan Hüseyin; Wei Meicai. 2019. The first mitogenomes of the superfamily Pamphilioidea (Hymenoptera: Symphyta): Mitogenome architecture and phylogenetic inference. International Journal of Biological Macromolecules, 124: 185-199. https://doi.org/10.1016/j.ijbiomac.2018.11.129",
+    "citation_note": "",
+    "volume": "124",
+    "issue": null,
+    "pages": "185-199",
+    "article_number": null
   },
   {
     "id": "main-434",
@@ -3362,7 +3482,7 @@
     "year": 2019,
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Analcellicampa xanthosoma gen. et sp. nov. (Hymenoptera: Tenthredinidae)",
-    "authors": "Niu GY, Zhang YY, Li ZY, Wei* MC.",
+    "authors": "Niu Gengyun; Zhang Yaoyao; Li Zhenyi; Wei Meicai",
     "journal": null,
     "doi": "10.7717/peerj.6866",
     "status": "published",
@@ -3433,7 +3553,12 @@
       "main-436",
       "niu-personal-69"
     ],
-    "citation": "Niu GY, Zhang YY, Li ZY, Wei* MC. 2019. Characterization of the mitochondrial genome of Analcellicampa xanthosoma gen. et sp. nov. (Hymenoptera: Tenthredinidae). PeerJ, 7:e6866 (1–29)."
+    "citation": "Niu Gengyun; Zhang Yaoyao; Li Zhenyi; Wei Meicai. 2019. Characterization of the mitochondrial genome of Analcellicampa xanthosoma gen. et sp. nov. (Hymenoptera: Tenthredinidae). PeerJ, 7: e6866. https://doi.org/10.7717/peerj.6866",
+    "citation_note": "",
+    "volume": "7",
+    "issue": null,
+    "pages": "e6866",
+    "article_number": "e6866"
   },
   {
     "id": "main-437",
@@ -3572,7 +3697,7 @@
     "year": 2019,
     "kind": "article",
     "title": "Complete mitochondrial genome sequence of Labriocimbex sinicus, a new genus and new species of Cimbicidae (Hymenoptera) from China",
-    "authors": "Yan YC, Niu GY, Zhang YY, Ren QY, Du SY, Lan BC, Wei MC.",
+    "authors": "Yan Yuchen; Niu Gengyun; Zhang Yaoyao; Ren Qianying; Du Shiyu; Lan Bocheng; Wei Meicai",
     "journal": null,
     "doi": "10.7717/peerj.7853",
     "status": "published",
@@ -3645,7 +3770,12 @@
       "main-443",
       "niu-personal-71"
     ],
-    "citation": "Yan YC, Niu GY, Zhang YY, Ren QY, Du SY, Lan BC, Wei MC. 2019. Complete mitochondrial genome sequence of Labriocimbex sinicus, a new genus and new species of Cimbicidae (Hymenoptera) from China. PeerJ, 7: e7853 (1–39). http://doi.org/10.7717/peerj.7853."
+    "citation": "Yan Yuchen; Niu Gengyun; Zhang Yaoyao; Ren Qianying; Du Shiyu; Lan Bocheng; Wei Meicai. 2019. Complete mitochondrial genome sequence of Labriocimbex sinicus, a new genus and new species of Cimbicidae (Hymenoptera) from China. PeerJ, 7: e7853. https://doi.org/10.7717/peerj.7853",
+    "citation_note": "",
+    "volume": "7",
+    "issue": null,
+    "pages": "e7853",
+    "article_number": "e7853"
   },
   {
     "id": "main-445",
@@ -3710,7 +3840,7 @@
     "year": 2019,
     "kind": "article",
     "title": "The complete mitochondrial genome of Athalia proxima (Hymenoptery: Tenthredinidae) and phylogenetic analysis",
-    "authors": "He HM, Niu GY, Zhang B. & Wei MC.",
+    "authors": "He Huimin; Niu Gengyun; Zhang Bin; Wei Meicai",
     "journal": null,
     "doi": "10.1080/23802359.2019.1687042",
     "status": "published",
@@ -3753,14 +3883,19 @@
       "main-446",
       "niu-personal-72"
     ],
-    "citation": "He HM, Niu GY, Zhang B. & Wei MC. 2019. The complete mitochondrial genome of Athalia proxima (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B Resources, 4: 2, 3868–3869."
+    "citation": "He Huimin; Niu Gengyun; Zhang Bin; Wei Meicai. 2019. The complete mitochondrial genome of Athalia proxima (Hymenoptery: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 4(2): 3868-3869. https://doi.org/10.1080/23802359.2019.1687042",
+    "citation_note": "",
+    "volume": "4",
+    "issue": "2",
+    "pages": "3868-3869",
+    "article_number": null
   },
   {
     "id": "main-447",
     "year": 2019,
     "kind": "article",
     "title": "Advancement in sequencing the mitochondrial genome of Birmella discoidalisa Wei, 1994 (Hymenoptera: Tenthredinidae) and the phylogenetic classification of Fenusini",
-    "authors": "Wu RX, Wei MC, Liu MM & Niu GY.",
+    "authors": "Wu Ruoxuan; Wei Meicai; Liu Mengmeng; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2019.1692728",
     "status": "published",
@@ -3791,14 +3926,19 @@
       "main-447",
       "niu-personal-74"
     ],
-    "citation": "Wu RX, Wei MC, Liu MM & Niu GY. 2019. Advancement in sequencing the mitochondrial genome of Birmella discoidalisa Wei, 1994 (Hymenoptera: Tenthredinidae) and the phylogenetic classification of Fenusini. Mitochondrial DNA Part B Resources, 4: 2, 4100–4101."
+    "citation": "Wu Ruoxuan; Wei Meicai; Liu Mengmeng; Niu Gengyun. 2019. Advancement in sequencing the mitochondrial genome of Birmella discoidalisa Wei, 1994 (Hymenoptera: Tenthredinidae) and the phylogenetic classification of Fenusini. Mitochondrial DNA Part B, 4(2): 4100-4101. https://doi.org/10.1080/23802359.2019.1692728",
+    "citation_note": "",
+    "volume": "4",
+    "issue": "2",
+    "pages": "4100-4101",
+    "article_number": null
   },
   {
     "id": "main-448",
     "year": 2019,
     "kind": "article",
     "title": "Nearly complete mitochondrial genome of Siobla xizangensis Xiao, Huang & Zhou, 1988 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
-    "authors": "Luo X, Wei MC & Niu G.",
+    "authors": "Luo Xi; Wei Meicai; Niu Gengyun",
     "journal": null,
     "doi": "10.1080/23802359.2019.1692729",
     "status": "published",
@@ -3829,7 +3969,12 @@
       "main-448",
       "niu-personal-73"
     ],
-    "citation": "Luo X, Wei MC & Niu G. 2019. Nearly complete mitochondrial genome of Siobla xizangensis Xiao, Huang & Zhou, 1988 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B Resources, 4: 2, 4102–4103."
+    "citation": "Luo Xi; Wei Meicai; Niu Gengyun. 2019. Nearly complete mitochondrial genome of Siobla xizangensis Xiao, Huang & Zhou, 1988 (Hymenoptera: Tenthredinidae) and phylogenetic analysis. Mitochondrial DNA Part B, 4(2): 4102-4103. https://doi.org/10.1080/23802359.2019.1692729",
+    "citation_note": "",
+    "volume": "4",
+    "issue": "2",
+    "pages": "4102-4103",
+    "article_number": null
   },
   {
     "id": "main-451",
@@ -4196,7 +4341,7 @@
     "year": 2018,
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Arge bella Wei & Du sp. nov. (Hymenoptera: Argidae)",
-    "authors": "Du, S., Niu, G., Nyman, T. & Wei, M*.",
+    "authors": "Du Shiyu; Niu Gengyun; Nyman Tommi; Wei Meicai",
     "journal": null,
     "doi": "10.7717/peerj.6131",
     "status": "published",
@@ -4249,7 +4394,12 @@
       "main-425",
       "niu-personal-64"
     ],
-    "citation": "Du, S., Niu, G., Nyman, T. & Wei, M*. 2018. Characterization of the mitochondrial genome of Arge bella Wei & Du sp. nov. (Hymenoptera: Argidae). PeeJ, 6: 1–25 (e6131)"
+    "citation": "Du Shiyu; Niu Gengyun; Nyman Tommi; Wei Meicai. 2018. Characterization of the mitochondrial genome of Arge bella Wei & Du sp. nov. (Hymenoptera: Argidae). PeerJ, 6: e6131. https://doi.org/10.7717/peerj.6131",
+    "citation_note": "",
+    "volume": "6",
+    "issue": null,
+    "pages": "e6131",
+    "article_number": "e6131"
   },
   {
     "id": "main-399",

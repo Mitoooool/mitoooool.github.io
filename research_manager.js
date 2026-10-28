@@ -14,8 +14,6 @@ const active=el('active-filters');active.replaceChildren();for(const id of contr
 }
 for(const id of controls)el(id).addEventListener(id==='archive-search'?'input':'change',()=>update());el('sort-order').onchange=()=>update(false);el('reset-filters').onclick=()=>{controls.forEach(id=>el(id).value='');update();};el('show-more').onclick=()=>{limit+=24;update(false);};
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!/input|textarea|select/i.test(e.target.tagName)&&!e.ctrlKey&&!e.metaKey){e.preventDefault();el('archive-search').focus();}});
-async function copyText(text){try{await navigator.clipboard.writeText(text);}catch{const box=document.createElement('textarea');box.value=text;box.style.position='fixed';box.style.opacity='0';document.body.append(box);box.select();const ok=document.execCommand('copy');box.remove();if(!ok)throw new Error('copy failed');}}
-document.querySelectorAll('.copy-citation').forEach(button=>button.onclick=async()=>{const r=byId.get(button.dataset.id);try{await copyText(r.citation||[r.authors,r.year,r.title,r.identifier].filter(Boolean).join('. '));const text=button.textContent;button.textContent='已复制 ✓';setTimeout(()=>button.textContent=text,1800);}catch{button.textContent='请展开记录，手动复制引文';}});
 document.querySelectorAll('.grant-chip').forEach(button=>button.onclick=()=>{el('grant-filter').value=button.dataset.grant;update();});
 function download(name,content,type){const blob=new Blob([content],{type}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),3000);}
 el('export-json').onclick=()=>download('niu-research-filtered.json',JSON.stringify(current,null,2),'application/json;charset=utf-8');
