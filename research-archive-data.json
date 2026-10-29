@@ -17,11 +17,23 @@
     "taxonomy_status": "不适用",
     "taxonomy_notes": null,
     "taxonomic_actions": [],
-    "grants": [],
-    "funding_status": "缺少PDF，待核对",
+    "grants": [
+      "32370500",
+      "62662044"
+    ],
+    "funding_status": "已提取编号",
     "funding_notes": "",
-    "funding_evidence": [],
-    "pdf_status": "missing",
+    "funding_evidence": [
+      {
+        "page": 4,
+        "quote": "This work was supported by the National Natural Science Foundation of China (grant nos. 32370500 and 62662044).",
+        "number_candidates": [
+          "32370500",
+          "62662044"
+        ]
+      }
+    ],
+    "pdf_status": "matched",
     "abstract_pdf": {
       "page": null,
       "text": "",
@@ -30,7 +42,7 @@
     "source_note": null,
     "number": 1,
     "kindLabel": "论文 / 预印本",
-    "evidenceLabel": "缺少PDF",
+    "evidenceLabel": "全文已匹配",
     "source_ids": [
       "niu-personal-123"
     ],
@@ -40,7 +52,19 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "article_number": null
+    "article_number": "1749-4877.70228",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 3,
+      "total": 4,
+      "role": "sole_corresponding",
+      "label": "通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Correspondence仅列Gengyun Niu。"
+      }
+    },
+    "verified_on": "2026-10-30"
   },
   {
     "id": "doi-10-64898-2026-08-28-747467",
@@ -145,7 +169,21 @@
       "doi-10-1111-1744-7917-70290",
       "niu-personal-124"
     ],
-    "citation": "Shi Hongdi, Liu Danfeng, Xu Xiao, Wang Yi, Geng Yupeng, Wei Meicai, Niu Gengyun, Li Bo. 2026. Siobla longitheca : a new sawfly species specializing on the invasive Phytolacca americana. Insect Science · Online publication."
+    "citation": "Shi Hongdi, Liu Danfeng, Xu Xiao, Wang Yi, Geng Yupeng, Wei Meicai, Niu Gengyun, Li Bo. 2026. Siobla longitheca : a new sawfly species specializing on the invasive Phytolacca americana. Insect Science · Online publication. https://doi.org/10.1111/1744-7917.70290",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 7,
+      "total": 8,
+      "role": "joint_corresponding",
+      "label": "共同通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Correspondence列Bo Li、Danfeng Liu与Gengyun Niu。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2026-05-05",
+    "article_number": "1744-7917.70290"
   },
   {
     "id": "doi-10-3390-insects17030289",
@@ -164,11 +202,25 @@
     "taxonomy_status": "待补摘要",
     "taxonomy_notes": null,
     "taxonomic_actions": [],
-    "grants": [],
-    "funding_status": "缺少PDF，待核对",
+    "grants": [
+      "32370500",
+      "31970447",
+      "YJS2025052"
+    ],
+    "funding_status": "已提取编号",
     "funding_notes": "",
-    "funding_evidence": [],
-    "pdf_status": "missing",
+    "funding_evidence": [
+      {
+        "page": 10,
+        "quote": "This research was funded by the National Natural Science Foundation of China (32370500, 31970447) and the Jiangxi Provincial Natural Science Foundation (YJS2025052).",
+        "number_candidates": [
+          "32370500",
+          "31970447",
+          "YJS2025052"
+        ]
+      }
+    ],
+    "pdf_status": "matched",
     "abstract_pdf": {
       "page": null,
       "text": "",
@@ -177,11 +229,27 @@
     "source_note": null,
     "number": 4,
     "kindLabel": "论文 / 预印本",
-    "evidenceLabel": "缺少PDF",
+    "evidenceLabel": "全文已匹配",
     "source_ids": [
       "doi-10-3390-insects17030289"
     ],
-    "citation": "Li Xiao, Niu Gengyun, Wei Meicai. 2026. A New Genus and Species of Syspastoxyelidae (Hymenoptera) from Mid-Cretaceous Burmese Amber. Insects, 17(3): 289."
+    "citation": "Li Xiao, Niu Gengyun, Wei Meicai. 2026. A New Genus and Species of Syspastoxyelidae (Hymenoptera) from Mid-Cretaceous Burmese Amber. Insects, 17(3): 289. https://doi.org/10.3390/insects17030289",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 2,
+      "total": 3,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页通讯星号及Correspondence属于Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2026-03-06",
+    "volume": "17",
+    "issue": "3",
+    "pages": "289"
   },
   {
     "id": "main-570",
@@ -241,7 +309,20 @@
     "volume": "15",
     "issue": "2",
     "pages": "202",
-    "article_number": null
+    "article_number": null,
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 5,
+      "total": 5,
+      "role": "joint_corresponding",
+      "label": "共同通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Meicai Wei与Gengyun Niu均带通讯星号，Correspondence列两人邮箱。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2026-01-22"
   },
   {
     "id": "main-560",
@@ -296,7 +377,20 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "article_number": null
+    "article_number": "1749-4877.70039",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 2,
+      "total": 7,
+      "role": "cofirst",
+      "label": "共同第一作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页脚注：Fengxia Li and Gengyun Niu contributed equally to this work。Correspondence列Meicai Wei与Haihe Shi。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-11-20"
   },
   {
     "id": "main-561",
@@ -368,7 +462,23 @@
       "main-561",
       "niu-personal-122"
     ],
-    "citation": "Li Xiao, Niu Gengyun, Wei Meicai. 2025. A New Species of Orthosyntexis (Hymenoptera: Anaxyelidae) from Mid-Cretaceous Burmese Amber. Insects, 16(10): 1039."
+    "citation": "Li Xiao, Niu Gengyun, Wei Meicai. 2025. A New Species of Orthosyntexis (Hymenoptera: Anaxyelidae) from Mid-Cretaceous Burmese Amber. Insects, 16(10): 1039. https://doi.org/10.3390/insects16101039",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 2,
+      "total": 3,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Correspondence仅列Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-10-09",
+    "volume": "16",
+    "issue": "10",
+    "pages": "1039"
   },
   {
     "id": "main-554",
@@ -428,7 +538,20 @@
     "volume": "26",
     "issue": "1",
     "pages": null,
-    "article_number": "261"
+    "article_number": "261",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 2,
+      "total": 7,
+      "role": "joint_corresponding",
+      "label": "共同通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Correspondence列Gengyun Niu与Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-03-17"
   },
   {
     "id": "main-549",
@@ -436,8 +559,8 @@
     "kind": "article",
     "title": "潜叶危害枫杨的额潜叶蜂属一新种（膜翅目：叶蜂科）",
     "authors": "谭贝贝, 付怀军, 牛耕耘, 魏美才.",
-    "journal": null,
-    "doi": null,
+    "journal": "林业科学",
+    "doi": "10.11707/j.1001-7488.LYKX20230513",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -494,7 +617,24 @@
       "main-549",
       "niu-personal-121"
     ],
-    "citation": "谭贝贝, 付怀军, 牛耕耘, 魏美才. 2025. 潜叶危害枫杨的额潜叶蜂属一新种（膜翅目：叶蜂科）. 林业科学, 61(1): 159–165."
+    "citation": "谭贝贝, 付怀军, 牛耕耘, 魏美才. 2025. 潜叶危害枫杨的额潜叶蜂属一新种（膜翅目：叶蜂科）. 林业科学, 61(1): 159–165. https://doi.org/10.11707/j.1001-7488.LYKX20230513",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 3,
+      "total": 4,
+      "role": "sole_corresponding",
+      "label": "通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页脚注明确牛耕耘为通信作者。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-01",
+    "volume": "61",
+    "issue": "1",
+    "pages": "159–165",
+    "article_number": null
   },
   {
     "id": "main-551",
@@ -545,7 +685,21 @@
       "main-551",
       "niu-personal-119"
     ],
-    "citation": "石海鹤，万昆，李凤霞，魏美才，牛耕耘. 2025. 基于模板的rRNA二级结构可视化方法. 华中科技大学学报（自然科学版）, 53(10): 49-53. DOI：10.13245/j.hust.251099."
+    "citation": "石海鹤，万昆，李凤霞，魏美才，牛耕耘. 2025. 基于模板的rRNA二级结构可视化方法. 华中科技大学学报（自然科学版）, 53(10): 49-53. DOI：10.13245/j.hust.251099.",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 5,
+      "total": 5,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "网络首发稿作者行列牛耕耘第5位，未指定其为共同第一或通讯作者。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-02-26",
+    "citation_note": "网络首发：2025-02-26；所列最终卷期页码尚待定稿或期刊目录复核。"
   },
   {
     "id": "main-563",
@@ -553,8 +707,8 @@
     "kind": "article",
     "title": "Telomere-to-telomere genome assembly uncovers Wolbachia-driven recurrent male bottleneck effect and selection in a sawfly",
     "authors": "Zhang MP, Zhai RY, Niu GY, Chen JQ, Tan BB, Wu D, Meng GL, Wei MC.",
-    "journal": null,
-    "doi": null,
+    "journal": "Communications Biology",
+    "doi": "10.1038/s42003-025-08629-0",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -596,7 +750,24 @@
       "main-563",
       "niu-personal-118"
     ],
-    "citation": "Zhang MP, Zhai RY, Niu GY, Chen JQ, Tan BB, Wu D, Meng GL, Wei MC. 2025. Telomere-to-telomere genome assembly uncovers Wolbachia-driven recurrent male bottleneck effect and selection in a sawfly. Communications Biology, 8: 1211, 1–16."
+    "citation": "Zhang MP, Zhai RY, Niu GY, Chen JQ, Tan BB, Wu D, Meng GL, Wei MC. 2025. Telomere-to-telomere genome assembly uncovers Wolbachia-driven recurrent male bottleneck effect and selection in a sawfly. Communications Biology, 8: 1211, 1–16. https://doi.org/10.1038/s42003-025-08629-0",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 3,
+      "total": 8,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页通讯邮箱属于Mingpeng Zhang与Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2025-08-13",
+    "volume": "8",
+    "issue": null,
+    "pages": null,
+    "article_number": "1211"
   },
   {
     "id": "main-535",
@@ -658,7 +829,20 @@
     "volume": "25",
     "issue": "1",
     "pages": null,
-    "article_number": "1097"
+    "article_number": "1097",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 4,
+      "total": 4,
+      "role": "sole_corresponding",
+      "label": "通讯作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页Correspondence仅列Gengyun Niu；共同贡献脚注列Haihe Shi、Shuai Yang与Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2024-11-18"
   },
   {
     "id": "main-534",
@@ -703,8 +887,8 @@
     "kind": "article",
     "title": "On the systematic position of Cacosyndya Kirby (Hymenoptera: Tenthredinidae) with redescription of Cacosyndya dimorpha Freymuth",
     "authors": "Wei MC, Niu GY.",
-    "journal": null,
-    "doi": null,
+    "journal": "Entomotaxonomia",
+    "doi": "10.11680/entomotax.2024025",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -752,7 +936,24 @@
     "source_ids": [
       "main-539"
     ],
-    "citation": "Wei MC, Niu GY. 2024. On the systematic position of Cacosyndya Kirby (Hymenoptera: Tenthredinidae) with redescription of Cacosyndya dimorpha Freymuth. Entomotaxonomia, 46(3): 251–256."
+    "citation": "Wei MC, Niu GY. 2024. On the systematic position of Cacosyndya Kirby (Hymenoptera: Tenthredinidae) with redescription of Cacosyndya dimorpha Freymuth. Entomotaxonomia, 46(3): 251–256. https://doi.org/10.11680/entomotax.2024025",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 2,
+      "total": 2,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页作者行为Meicai Wei、Gengyun Niu，通讯脚注属于Meicai Wei。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2024-08-26",
+    "volume": "46",
+    "issue": "3",
+    "pages": "251–256",
+    "article_number": null
   },
   {
     "id": "main-541",
@@ -760,8 +961,8 @@
     "kind": "article",
     "title": "A new sawfly from the Paleocene of Menat (Hymenoptera: Tenthredinidae)",
     "authors": "Nel A, Wei MC, Niu GY, Jouault C.",
-    "journal": null,
-    "doi": null,
+    "journal": "Palaeoentomology",
+    "doi": "10.11646/palaeoentomology.7.3.7",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -772,10 +973,10 @@
     "taxonomy_notes": null,
     "taxonomic_actions": [],
     "grants": [],
-    "funding_status": "缺少PDF，待核对",
-    "funding_notes": "",
+    "funding_status": "全文未定位基金编号",
+    "funding_notes": "已核对全文；第7页致谢未列基金编号，未据此认定没有资助。",
     "funding_evidence": [],
-    "pdf_status": "missing",
+    "pdf_status": "matched",
     "abstract_pdf": {
       "page": null,
       "text": "",
@@ -784,20 +985,37 @@
     "source_note": null,
     "number": 15,
     "kindLabel": "论文 / 预印本",
-    "evidenceLabel": "缺少PDF",
+    "evidenceLabel": "全文已匹配",
     "source_ids": [
       "main-541"
     ],
-    "citation": "Nel A, Wei MC, Niu GY, Jouault C. 2024. A new sawfly from the Paleocene of Menat (Hymenoptera: Tenthredinidae). Palaeoentomology, 007 (3): 377–385."
+    "citation": "Nel A, Wei MC, Niu GY, Jouault C. 2024. A new sawfly from the Paleocene of Menat (Hymenoptera: Tenthredinidae). Palaeoentomology, 007 (3): 377–385. https://doi.org/10.11646/palaeoentomology.7.3.7",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 3,
+      "total": 4,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页列4位作者，牛耕耘第3位；未标其为共同第一或通讯作者。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2024-06-29",
+    "volume": "7",
+    "issue": "3",
+    "pages": "377–385",
+    "article_number": null
   },
   {
     "id": "main-542",
     "year": 2024,
     "kind": "article",
     "title": "Phylogenomics and biogeography of sawflies and woodwasps (Hymenoptera, Symphyta)",
-    "authors": "Wutke S, Blank S B, Boevé J-V, Faircloth B C, Koch F, Linnen C R, Malm T, Niu GY, Prous M, Schiffj NM, Schmidt S, Taeger A, Vilhelmsen L, Wahlberg N, Wei MC, Nyman T.",
-    "journal": null,
-    "doi": null,
+    "authors": "Wutke S, Blank S B, Boevé J-V, Faircloth B C, Koch F, Linnen C R, Malm T, Niu GY, Prous M, Schiff NM, Schmidt S, Taeger A, Vilhelmsen L, Wahlberg N, Wei MC, Nyman T.",
+    "journal": "Molecular Phylogenetics and Evolution",
+    "doi": "10.1016/j.ympev.2024.108144",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -839,7 +1057,24 @@
     "source_ids": [
       "main-542"
     ],
-    "citation": "Wutke S, Blank S B, Boevé J-V, Faircloth B C, Koch F, Linnen C R, Malm T, Niu GY, Prous M, Schiffj NM, Schmidt S, Taeger A, Vilhelmsen L, Wahlberg N, Wei MC, Nyman T. 2024. Phylogenomics and biogeography of sawflies and woodwasps (Hymenoptera, Symphyta). Molecular Phylogenetics and Evolution, 199, 108144, 1–14."
+    "citation": "Wutke S, Blank S B, Boevé J-V, Faircloth B C, Koch F, Linnen C R, Malm T, Niu GY, Prous M, Schiff NM, Schmidt S, Taeger A, Vilhelmsen L, Wahlberg N, Wei MC, Nyman T. 2024. Phylogenomics and biogeography of sawflies and woodwasps (Hymenoptera, Symphyta). Molecular Phylogenetics and Evolution, 199, 108144, 1–14. https://doi.org/10.1016/j.ympev.2024.108144",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 8,
+      "total": 16,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页16位作者中Gengyun Niu第8位；Corresponding author为Saskia Wutke。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2024-07-05",
+    "volume": "199",
+    "issue": null,
+    "pages": null,
+    "article_number": "108144"
   },
   {
     "id": "niu-personal-115",
@@ -848,7 +1083,7 @@
     "title": "Taxonomic revision of two species in the genus Ptychorhynchus Simpson, 1900 (Bivalvia: Unionidae: Gonideinae), with description of a new species",
     "authors": "Wu Ruiwen, Liu Lili, Zhang Liping, Bogan Arthur E., Niu Gengyun, Jin Dandong, Wu Xiaoping, Liu Xiongjun",
     "journal": "Invertebrate Systematics",
-    "doi": "10.1071/is24014",
+    "doi": "10.1071/IS24014",
     "status": "published",
     "identifier": null,
     "research_tags": [
@@ -890,7 +1125,23 @@
     "source_ids": [
       "niu-personal-115"
     ],
-    "citation": "Wu Ruiwen, Liu Lili, Zhang Liping, Bogan Arthur E., Niu Gengyun, Jin Dandong, Wu Xiaoping, Liu Xiongjun. 2024. Taxonomic revision of two species in the genus Ptychorhynchus Simpson, 1900 (Bivalvia: Unionidae: Gonideinae), with description of a new species. Invertebrate Systematics, 38: IS24014."
+    "citation": "Wu Ruiwen, Liu Lili, Zhang Liping, Bogan Arthur E., Niu Gengyun, Jin Dandong, Wu Xiaoping, Liu Xiongjun. 2024. Taxonomic revision of two species in the genus Ptychorhynchus Simpson, 1900 (Bivalvia: Unionidae: Gonideinae), with description of a new species. Invertebrate Systematics, 38: IS24014. https://doi.org/10.1071/IS24014",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 5,
+      "total": 8,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页8位作者中Gengyun Niu第5位；通讯星号属于Ruiwen Wu与Xiongjun Liu。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2024-07-04",
+    "volume": "38",
+    "issue": "7",
+    "article_number": "IS24014"
   },
   {
     "id": "supplement-767",
@@ -1094,7 +1345,7 @@
     "kind": "article",
     "title": "Description of a new fossil genus of conifer sawfly (Hymenoptera: Diprionidae) revealed by UV light",
     "authors": "Nel A, Wei MC, Niu GY, Garrouste R, Jouault C.",
-    "journal": null,
+    "journal": "Palaeoentomology",
     "doi": "10.11646/palaeoentomology.6.3.14",
     "status": "published",
     "identifier": null,
@@ -1145,7 +1396,24 @@
       "main-525",
       "niu-personal-114"
     ],
-    "citation": "Nel A, Wei MC, Niu GY, Garrouste R, Jouault C. 2023. Description of a new fossil genus of conifer sawfly (Hymenoptera: Diprionidae) revealed by UV light. Palaeoentomology, 006(3): 313–320."
+    "citation": "Nel A, Wei MC, Niu GY, Garrouste R, Jouault C. 2023. Description of a new fossil genus of conifer sawfly (Hymenoptera: Diprionidae) revealed by UV light. Palaeoentomology, 006(3): 313–320. https://doi.org/10.11646/palaeoentomology.6.3.14",
+    "niu_authorship": {
+      "name": "牛耕耘",
+      "position": 3,
+      "total": 5,
+      "role": "author",
+      "label": "署名作者",
+      "evidence": {
+        "pdf_page": 1,
+        "text": "PDF首页5位作者中Geng-Yun Niu第3位；通讯星号属于André Nel。"
+      }
+    },
+    "verified_on": "2026-10-30",
+    "published_online": "2023-06-29",
+    "volume": "6",
+    "issue": "3",
+    "pages": "313–320",
+    "article_number": null
   },
   {
     "id": "main-531",
@@ -7726,28 +7994,36 @@
     "funding_status": "不适用",
     "funding_notes": "",
     "funding_evidence": [],
-    "pdf_status": "certificate-pending",
+    "pdf_status": "application-verified",
     "abstract_pdf": {
       "page": null,
       "text": ""
     },
-    "source_note": "牛耕耘论著目录",
+    "source_note": "发明专利申请公布文本核对",
     "number": 139,
     "kindLabel": "专利",
-    "evidenceLabel": "证书 / 法律状态待核对",
+    "evidenceLabel": "申请公布文本已核对",
     "source_ids": [],
-    "citation": "",
-    "official_url": "https://patents.google.com/patent/CN116130002A/zh"
+    "citation": "马勇；江兴鸿；牛耕耘；简文欣；戴梦轩；郑文胜；肖艺；李敏. 2023. 一种DNA序列多态分析方法及系统. 中国发明专利申请公布，CN116130002A；公布日2023-05-16。申请人：江西师范大学。",
+    "official_url": "https://patents.google.com/patent/CN116130002A/zh",
+    "applicant": "江西师范大学",
+    "application_number": "202211691737.3",
+    "application_published_on": "2023-05-16",
+    "niu_inventorship": {
+      "position": 3,
+      "total": 8
+    },
+    "verified_on": "2026-10-30"
   },
   {
     "id": "software-2023SR0677949",
     "year": 2023,
     "kind": "software",
-    "title": "一种基于web的组装线粒体基因组的自动化平台",
-    "authors": "牛耕耘",
+    "title": "一种基于web的组装线粒体基因组的自动化平台 V1.0",
+    "authors": "江西师范大学",
     "journal": null,
     "doi": "",
-    "status": "目录登记日期2023-06-15；证书待核对",
+    "status": "计算机软件著作权登记",
     "identifier": "2023SR0677949",
     "research_tags": [
       "线粒体基因组"
@@ -7760,16 +8036,237 @@
     "funding_status": "不适用",
     "funding_notes": "",
     "funding_evidence": [],
-    "pdf_status": "certificate-pending",
+    "pdf_status": "certificate-verified",
     "abstract_pdf": {
       "page": null,
       "text": ""
     },
-    "source_note": "牛耕耘论著目录",
+    "source_note": "软件著作权登记证书核对",
     "number": 140,
     "kindLabel": "软件著作权",
-    "evidenceLabel": "证书 / 法律状态待核对",
+    "evidenceLabel": "证书已核对",
     "source_ids": [],
-    "citation": ""
+    "citation": "江西师范大学. 2023. 一种基于web的组装线粒体基因组的自动化平台 V1.0. 计算机软件著作权登记，登记号2023SR0677949；登记日期2023-06-15。",
+    "rights_holder": "江西师范大学",
+    "registered_on": "2023-06-15",
+    "verified_on": "2026-10-30",
+    "certificate_issuer": "国家版权局",
+    "personal_attribution": {
+      "name": "牛耕耘",
+      "relationship": "个人成果收录",
+      "rank": null,
+      "evidence": "证书未载个人完成人及排序"
+    }
+  },
+  {
+    "id": "patent-CN118522347B",
+    "year": 2025,
+    "kind": "patent",
+    "title": "基于同源性分析和区域加权的线粒体基因组重排量化方法",
+    "authors": "牛耕耘；杨帅；石海鹤；魏美才",
+    "journal": null,
+    "doi": "",
+    "status": "发明专利授权",
+    "identifier": "ZL202410989228.1",
+    "research_tags": [
+      "线粒体基因组"
+    ],
+    "taxonomy_summary": "",
+    "taxonomy_status": "不适用",
+    "taxonomy_notes": null,
+    "taxonomic_actions": [],
+    "grants": [],
+    "funding_status": "不适用",
+    "funding_notes": "",
+    "funding_evidence": [],
+    "pdf_status": "certificate-verified",
+    "abstract_pdf": {
+      "page": null,
+      "text": ""
+    },
+    "source_note": "授权证书核对",
+    "number": 141,
+    "kindLabel": "专利",
+    "evidenceLabel": "证书已核对",
+    "source_ids": [],
+    "citation": "牛耕耘；杨帅；石海鹤；魏美才. 2025. 基于同源性分析和区域加权的线粒体基因组重排量化方法. 中国发明专利，ZL202410989228.1；授权公告号CN118522347B；授权公告日2025-02-07。专利权人：江西师范大学。",
+    "verified_on": "2026-10-30",
+    "grant_publication": "CN118522347B",
+    "granted_on": "2025-02-07",
+    "rights_holder": "江西师范大学",
+    "niu_inventorship": {
+      "position": 1,
+      "total": 4
+    },
+    "certificate_issuer": "国家知识产权局"
+  },
+  {
+    "id": "patent-CN118280456B",
+    "year": 2024,
+    "kind": "patent",
+    "title": "一种线粒体DNA数据规范化方法及集成应用平台",
+    "authors": "石海鹤；杜人增；牛耕耘；石海鹏；李凤霞；刘锵；赖美琪",
+    "journal": null,
+    "doi": "",
+    "status": "发明专利授权",
+    "identifier": "ZL202410702738.6",
+    "research_tags": [
+      "线粒体基因组"
+    ],
+    "taxonomy_summary": "",
+    "taxonomy_status": "不适用",
+    "taxonomy_notes": null,
+    "taxonomic_actions": [],
+    "grants": [],
+    "funding_status": "不适用",
+    "funding_notes": "",
+    "funding_evidence": [],
+    "pdf_status": "certificate-verified",
+    "abstract_pdf": {
+      "page": null,
+      "text": ""
+    },
+    "source_note": "授权证书核对",
+    "number": 142,
+    "kindLabel": "专利",
+    "evidenceLabel": "证书已核对",
+    "source_ids": [],
+    "citation": "石海鹤；杜人增；牛耕耘；石海鹏；李凤霞；刘锵；赖美琪. 2024. 一种线粒体DNA数据规范化方法及集成应用平台. 中国发明专利，ZL202410702738.6；授权公告号CN118280456B；授权公告日2024-08-20。专利权人：江西师范大学。",
+    "verified_on": "2026-10-30",
+    "grant_publication": "CN118280456B",
+    "granted_on": "2024-08-20",
+    "rights_holder": "江西师范大学",
+    "niu_inventorship": {
+      "position": 3,
+      "total": 7
+    },
+    "certificate_issuer": "国家知识产权局"
+  },
+  {
+    "id": "patent-CN117116361B",
+    "year": 2024,
+    "kind": "patent",
+    "title": "一种基于固定框架的12sRNA二级结构可视化方法",
+    "authors": "石海鹤；万昆；牛耕耘；李凤霞；李涛；罗来源；杨帅；肖艺",
+    "journal": null,
+    "doi": "",
+    "status": "发明专利授权",
+    "identifier": "ZL202311387196.X",
+    "research_tags": [
+      "线粒体基因组"
+    ],
+    "taxonomy_summary": "",
+    "taxonomy_status": "不适用",
+    "taxonomy_notes": null,
+    "taxonomic_actions": [],
+    "grants": [],
+    "funding_status": "不适用",
+    "funding_notes": "",
+    "funding_evidence": [],
+    "pdf_status": "certificate-verified",
+    "abstract_pdf": {
+      "page": null,
+      "text": ""
+    },
+    "source_note": "授权证书核对",
+    "number": 143,
+    "kindLabel": "专利",
+    "evidenceLabel": "证书已核对",
+    "source_ids": [],
+    "citation": "石海鹤；万昆；牛耕耘；李凤霞；李涛；罗来源；杨帅；肖艺. 2024. 一种基于固定框架的12sRNA二级结构可视化方法. 中国发明专利，ZL202311387196.X；授权公告号CN117116361B；授权公告日2024-01-26。专利权人：江西师范大学。",
+    "verified_on": "2026-10-30",
+    "grant_publication": "CN117116361B",
+    "granted_on": "2024-01-26",
+    "rights_holder": "江西师范大学",
+    "niu_inventorship": {
+      "position": 3,
+      "total": 8
+    },
+    "certificate_issuer": "国家知识产权局"
+  },
+  {
+    "id": "patent-CN117133351B",
+    "year": 2024,
+    "kind": "patent",
+    "title": "一种优化的线粒体基因重排量化方法",
+    "authors": "石海鹤；杨帅；牛耕耘；罗来源；万昆；李涛",
+    "journal": null,
+    "doi": "",
+    "status": "发明专利授权",
+    "identifier": "ZL202311378396.9",
+    "research_tags": [
+      "线粒体基因组"
+    ],
+    "taxonomy_summary": "",
+    "taxonomy_status": "不适用",
+    "taxonomy_notes": null,
+    "taxonomic_actions": [],
+    "grants": [],
+    "funding_status": "不适用",
+    "funding_notes": "",
+    "funding_evidence": [],
+    "pdf_status": "certificate-verified",
+    "abstract_pdf": {
+      "page": null,
+      "text": ""
+    },
+    "source_note": "授权证书核对",
+    "number": 144,
+    "kindLabel": "专利",
+    "evidenceLabel": "证书已核对",
+    "source_ids": [],
+    "citation": "石海鹤；杨帅；牛耕耘；罗来源；万昆；李涛. 2024. 一种优化的线粒体基因重排量化方法. 中国发明专利，ZL202311378396.9；授权公告号CN117133351B；授权公告日2024-01-23。专利权人：江西师范大学。",
+    "verified_on": "2026-10-30",
+    "grant_publication": "CN117133351B",
+    "granted_on": "2024-01-23",
+    "rights_holder": "江西师范大学",
+    "niu_inventorship": {
+      "position": 3,
+      "total": 6
+    },
+    "certificate_issuer": "国家知识产权局"
+  },
+  {
+    "id": "software-2023SR1485943",
+    "year": 2023,
+    "kind": "software",
+    "title": "基因序列数据文件处理系统 V1.0",
+    "authors": "江西师范大学",
+    "journal": null,
+    "doi": "",
+    "status": "计算机软件著作权登记",
+    "identifier": "2023SR1485943",
+    "research_tags": [
+      "线粒体基因组"
+    ],
+    "taxonomy_summary": "",
+    "taxonomy_status": "不适用",
+    "taxonomy_notes": null,
+    "taxonomic_actions": [],
+    "grants": [],
+    "funding_status": "不适用",
+    "funding_notes": "",
+    "funding_evidence": [],
+    "pdf_status": "certificate-verified",
+    "abstract_pdf": {
+      "page": null,
+      "text": ""
+    },
+    "source_note": "软件著作权登记证书核对",
+    "number": 145,
+    "kindLabel": "软件著作权",
+    "evidenceLabel": "证书已核对",
+    "source_ids": [],
+    "citation": "江西师范大学. 2023. 基因序列数据文件处理系统 V1.0. 计算机软件著作权登记，登记号2023SR1485943；登记日期2023-11-23。",
+    "verified_on": "2026-10-30",
+    "rights_holder": "江西师范大学",
+    "registered_on": "2023-11-23",
+    "certificate_issuer": "国家版权局",
+    "personal_attribution": {
+      "name": "牛耕耘",
+      "relationship": "个人成果收录",
+      "rank": null,
+      "evidence": "证书未载个人完成人及排序"
+    }
   }
 ]
