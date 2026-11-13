@@ -1,0 +1,40 @@
+/* Additional statistics and SCI labels for the Niu publications page.
+   Original site styles, backgrounds and typography remain in the shared CSS. */
+body.niu-publications-page{--sci:#226d59;--non:#b3c4bd;--chart-grid:#e3e9e6}
+.niu-publications-page .annual-panel{background:#fff;border:1px solid #dce5de;border-radius:12px;padding:28px 30px 20px;margin:28px 0 36px}
+.niu-publications-page .annual-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:20px}
+.niu-publications-page .annual-heading .eyebrow{font-size:10px;letter-spacing:.16em;margin:0 0 5px;color:#637a6e}
+.niu-publications-page .annual-heading h2{margin:0 0 6px;font-size:24px;color:#193f35}
+.niu-publications-page .annual-heading p{font-size:12px;margin:0;color:#718077}
+.niu-publications-page .period-switch{display:flex;gap:4px;border:1px solid #dce5de;padding:4px;border-radius:6px}
+.niu-publications-page .period-switch button{background:transparent;border:0;padding:7px 14px;border-radius:4px;color:#5b6c61;font-size:12px;cursor:pointer}
+.niu-publications-page .period-switch button[aria-pressed=true]{background:#193f35;color:white}
+.niu-publications-page .chart-legend{display:flex;gap:23px;font-size:12px;margin:22px 0 4px;color:#566c60}
+.niu-publications-page .chart-legend span{display:flex;align-items:center;gap:7px}
+.niu-publications-page .swatch{display:inline-block;width:11px;height:11px;border-radius:2px}
+.niu-publications-page .swatch.sci{background:var(--sci)}
+.niu-publications-page .swatch.non{background:var(--non)}
+.niu-publications-page .chart-scroll{overflow:auto}
+.niu-publications-page #annual-chart{min-width:650px}
+.niu-publications-page #annual-chart svg{width:100%;height:auto;display:block}
+.niu-publications-page .tick{fill:#748178;font:11px system-ui,sans-serif}
+.niu-publications-page .bar-total{fill:#385044;font:600 12px system-ui,sans-serif}
+.niu-publications-page .annual-bar{cursor:pointer}
+.niu-publications-page .annual-bar:hover{filter:brightness(.92)}
+.niu-publications-page .annual-bar:focus{outline:none}
+.niu-publications-page .annual-bar:focus>rect:first-of-type{fill:#eaf0eb77;stroke:#226d59}
+.niu-publications-page .chart-meta{display:flex;justify-content:space-between;align-items:center;gap:20px;padding-top:3px;font-size:12px;color:#50675b}
+.niu-publications-page .chart-meta button{border:0;background:transparent;color:#226d59;cursor:pointer;font-size:12px}
+.niu-publications-page .counting-note{font-size:11px;line-height:1.8;color:#78847c;border-top:1px solid #e9eeea;margin:14px 0 0;padding:12px 0 0}
+.niu-publications-page .methodology{font-size:12px;line-height:1.85;color:#586d60;margin-top:10px}
+.niu-publications-page .methodology summary{cursor:pointer;color:#385e49}
+.niu-publications-page .methodology table{border-collapse:collapse;width:100%;font-size:12px;margin:12px 0}
+.niu-publications-page .methodology th,.niu-publications-page .methodology td{padding:6px 12px;border-bottom:1px solid #e4eae5;text-align:right}
+.niu-publications-page .methodology th:first-child,.niu-publications-page .methodology td:first-child{text-align:left}
+.niu-publications-page .sci-badge{border-radius:4px;padding:4px 7px;font-size:10px;line-height:1.5;display:inline-block;margin-bottom:12px}
+.niu-publications-page .sci-badge.sci{background:#e6f0e9;color:#226d59}
+.niu-publications-page .sci-badge.non{background:#edf1ee;color:#64776c}
+.niu-publications-page .sci-badge.preprint{background:#eef0f6;color:#69718f}
+.niu-publications-page .paper-table-download{display:block;font-size:12px;line-height:1.8;color:#35604a;text-decoration:none;padding:6px 0}
+.niu-publications-page .chart-empty{font-size:13px;color:#718077}
+@media(max-width:800px){.niu-publications-page .annual-panel{padding:20px 16px}.niu-publications-page .annual-heading{flex-direction:column;gap:15px}.niu-publications-page .chart-legend{gap:12px;font-size:11px}.niu-publications-page .chart-meta{flex-direction:column;align-items:flex-start;gap:8px}.niu-publications-page .paper-table-download{width:100%}}

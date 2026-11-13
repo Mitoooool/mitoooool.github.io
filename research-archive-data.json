@@ -64,7 +64,11 @@
         "text": "PDF首页Correspondence仅列Gengyun Niu。"
       }
     },
-    "verified_on": "2026-10-30"
+    "verified_on": "2026-10-30",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word年度小计：2026 [3, SCI 3]",
+    "sci_basis_source": "word"
   },
   {
     "id": "doi-10-64898-2026-08-28-747467",
@@ -105,7 +109,11 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "article_number": null
+    "article_number": null,
+    "sci_class": "preprint",
+    "sci_label": "预印本 · 不计发文量",
+    "sci_evidence": "网站明确标注预印本，不计正式论文或SCI发文量",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "doi-10-1111-1744-7917-70290",
@@ -183,7 +191,11 @@
     },
     "verified_on": "2026-10-30",
     "published_online": "2026-05-05",
-    "article_number": "1744-7917.70290"
+    "article_number": "1744-7917.70290",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word年度小计：2026 [3, SCI 3]",
+    "sci_basis_source": "word"
   },
   {
     "id": "doi-10-3390-insects17030289",
@@ -249,7 +261,17 @@
     "published_online": "2026-03-06",
     "volume": "17",
     "issue": "3",
-    "pages": "289"
+    "pages": "289",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "2026-11-13补充核对：Insects为SCI收录期刊；应用于本条2026年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Insects",
+      "sci": true
+    }
   },
   {
     "id": "main-570",
@@ -322,7 +344,11 @@
       }
     },
     "verified_on": "2026-10-30",
-    "published_online": "2026-01-22"
+    "published_online": "2026-01-22",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word年度小计：2026 [3, SCI 3]",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-560",
@@ -390,7 +416,11 @@
       }
     },
     "verified_on": "2026-10-30",
-    "published_online": "2025-11-20"
+    "published_online": "2025-11-20",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-561",
@@ -478,7 +508,11 @@
     "published_online": "2025-10-09",
     "volume": "16",
     "issue": "10",
-    "pages": "1039"
+    "pages": "1039",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-554",
@@ -551,7 +585,11 @@
       }
     },
     "verified_on": "2026-10-30",
-    "published_online": "2025-03-17"
+    "published_online": "2025-03-17",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-549",
@@ -634,7 +672,11 @@
     "volume": "61",
     "issue": "1",
     "pages": "159–165",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-551",
@@ -642,7 +684,7 @@
     "kind": "article",
     "title": "基于模板的rRNA二级结构可视化方法",
     "authors": "石海鹤，万昆，李凤霞，魏美才，牛耕耘",
-    "journal": null,
+    "journal": "华中科技大学学报（自然科学版）",
     "doi": "10.13245/j.hust.251099",
     "status": "published",
     "identifier": null,
@@ -699,7 +741,11 @@
     },
     "verified_on": "2026-10-30",
     "published_online": "2025-02-26",
-    "citation_note": "网络首发：2025-02-26；所列最终卷期页码尚待定稿或期刊目录复核。"
+    "citation_note": "网络首发：2025-02-26；所列最终卷期页码尚待定稿或期刊目录复核。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-563",
@@ -767,7 +813,11 @@
     "volume": "8",
     "issue": null,
     "pages": null,
-    "article_number": "1211"
+    "article_number": "1211",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-535",
@@ -842,7 +892,11 @@
       }
     },
     "verified_on": "2026-10-30",
-    "published_online": "2024-11-18"
+    "published_online": "2024-11-18",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-534",
@@ -879,7 +933,11 @@
       "main-534",
       "supplement-814"
     ],
-    "citation": "魏美才（副主编），牛耕耘. 2024. 膜翅目广腰亚目昆虫. pp. 211–247. 覃事用，杨道德等主编，湖南壶瓶山国家级自然保护区生物多样性研究与保护. 长沙：湖南科学技术出版社. 1–536."
+    "citation": "魏美才（副主编），牛耕耘. 2024. 膜翅目广腰亚目昆虫. pp. 211–247. 覃事用，杨道德等主编，湖南壶瓶山国家级自然保护区生物多样性研究与保护. 长沙：湖南科学技术出版社. 1–536.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "main-539",
@@ -887,7 +945,7 @@
     "kind": "article",
     "title": "On the systematic position of Cacosyndya Kirby (Hymenoptera: Tenthredinidae) with redescription of Cacosyndya dimorpha Freymuth",
     "authors": "Wei MC, Niu GY.",
-    "journal": "Entomotaxonomia",
+    "journal": "Entomotaxonomia（昆虫分类学报）",
     "doi": "10.11680/entomotax.2024025",
     "status": "published",
     "identifier": null,
@@ -953,7 +1011,17 @@
     "volume": "46",
     "issue": "3",
     "pages": "251–256",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "2026-11-13补充核对：Entomotaxonomia（昆虫分类学报）不是SCI期刊；应用于本条2024年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Entomotaxonomia（昆虫分类学报）",
+      "sci": false
+    }
   },
   {
     "id": "main-541",
@@ -1006,7 +1074,17 @@
     "volume": "7",
     "issue": "3",
     "pages": "377–385",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "2026-11-13补充核对：Palaeoentomology为SCI收录期刊；应用于本条2024年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Palaeoentomology",
+      "sci": true
+    }
   },
   {
     "id": "main-542",
@@ -1074,7 +1152,17 @@
     "volume": "199",
     "issue": null,
     "pages": null,
-    "article_number": "108144"
+    "article_number": "108144",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "2026-11-13补充核对：Molecular Phylogenetics and Evolution为SCI收录期刊；应用于本条2024年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Molecular Phylogenetics and Evolution",
+      "sci": true
+    }
   },
   {
     "id": "niu-personal-115",
@@ -1141,7 +1229,11 @@
     "published_online": "2024-07-04",
     "volume": "38",
     "issue": "7",
-    "article_number": "IS24014"
+    "article_number": "IS24014",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "supplement-767",
@@ -1177,7 +1269,11 @@
     "source_ids": [
       "supplement-767"
     ],
-    "citation": "牛耕耘，魏美才. 2024译著 物种进化。电力出版社."
+    "citation": "牛耕耘，魏美才. 2024译著 物种进化。电力出版社.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "doi-10-1101-2023-03-14-532325",
@@ -1220,7 +1316,11 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "article_number": null
+    "article_number": null,
+    "sci_class": "preprint",
+    "sci_label": "预印本 · 不计发文量",
+    "sci_evidence": "网站明确标注预印本，不计正式论文或SCI发文量",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-521",
@@ -1228,7 +1328,7 @@
     "kind": "article",
     "title": "危害云锦杜鹃的简脉茎蜂属一新种（膜翅目：茎蜂科）及系统学意义",
     "authors": "牛耕耘，李东宾，谭贝贝，徐婧，魏美才.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": "10.11707/j.1001-7488.lykx20210931",
     "status": "published",
     "identifier": null,
@@ -1280,7 +1380,11 @@
       "niu-personal-113"
     ],
     "citation": "牛耕耘，李东宾，谭贝贝，徐婧，魏美才.. 2023. 危害云锦杜鹃的简脉茎蜂属一新种（膜翅目：茎蜂科）及系统学意义. https://doi.org/10.11707/j.1001-7488.lykx20210931",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-524",
@@ -1288,7 +1392,7 @@
     "kind": "article",
     "title": "On the genus Chrysolyda Shinohara (Hymenoptera: Pamphiliidae) with description of a new species",
     "authors": "Hu JH, Niu GY, Liu JF, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -1337,7 +1441,11 @@
       "main-524",
       "niu-personal-112"
     ],
-    "citation": "Hu JH, Niu GY, Liu JF, Wei MC. 2023. On the genus Chrysolyda Shinohara (Hymenoptera: Pamphiliidae) with description of a new species. Entomotaxonomia, 45(2): 151–160."
+    "citation": "Hu JH, Niu GY, Liu JF, Wei MC. 2023. On the genus Chrysolyda Shinohara (Hymenoptera: Pamphiliidae) with description of a new species. Entomotaxonomia, 45(2): 151–160.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-525",
@@ -1413,7 +1521,11 @@
     "volume": "6",
     "issue": "3",
     "pages": "313–320",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-531",
@@ -1421,7 +1533,7 @@
     "kind": "article",
     "title": "A new genus of Diprioninae (Hymenoptera: Diprionidae) with one new species and seven new combinations",
     "authors": "Wei MC, Niu GY.",
-    "journal": null,
+    "journal": "Entomotaxonomia（昆虫分类学报）",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -1449,7 +1561,17 @@
     "source_ids": [
       "main-531"
     ],
-    "citation": "Wei MC, Niu GY. 2023. A new genus of Diprioninae (Hymenoptera: Diprionidae) with one new species and seven new combinations. Entomotaxonomia, 45(4): 294–301."
+    "citation": "Wei MC, Niu GY. 2023. A new genus of Diprioninae (Hymenoptera: Diprionidae) with one new species and seven new combinations. Entomotaxonomia, 45(4): 294–301.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "2026-11-13补充核对：Entomotaxonomia（昆虫分类学报）不是SCI期刊；应用于本条2023年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Entomotaxonomia（昆虫分类学报）",
+      "sci": false
+    }
   },
   {
     "id": "chinaxiv-202303-00021-v1",
@@ -1491,7 +1613,11 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "article_number": null
+    "article_number": null,
+    "sci_class": "preprint",
+    "sci_label": "预印本 · 不计发文量",
+    "sci_evidence": "网站明确标注预印本，不计正式论文或SCI发文量",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "main-499",
@@ -1499,7 +1625,7 @@
     "kind": "article",
     "title": "Arge aurora Wei sp. nov. (Hymenoptera, Argidae) from China with a key to East Asian species of Arge nipponensis group",
     "authors": "Wan Siying; Wu Duo; Niu Gengyun; Liu Ting; Wei Meicai",
-    "journal": null,
+    "journal": "Entomological Research",
     "doi": "10.1111/1748-5967.12563",
     "status": "published",
     "identifier": null,
@@ -1560,7 +1686,11 @@
     "volume": "52",
     "issue": "1",
     "pages": "33-43",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-500",
@@ -1568,7 +1698,7 @@
     "kind": "article",
     "title": "The first fossil representatives of the sawfly genera Emphytus and Empria from the upper Miocene of France (Hymenoptera, Tenthredinidae)",
     "authors": "Nel A, Sammut RM, Wei MC, Niu GY, Jouault C.",
-    "journal": null,
+    "journal": "Insects",
     "doi": "10.3390/insects13020218",
     "status": "published",
     "identifier": null,
@@ -1625,7 +1755,11 @@
       "main-500",
       "niu-personal-105"
     ],
-    "citation": "Nel A, Sammut RM, Wei MC, Niu GY, Jouault C. 2022. The first fossil representatives of the sawfly genera Emphytus and Empria from the upper Miocene of France (Hymenoptera, Tenthredinidae). Insects, 13, 218, 1–19. https://doi.org/10.3390/ insects13020218."
+    "citation": "Nel A, Sammut RM, Wei MC, Niu GY, Jouault C. 2022. The first fossil representatives of the sawfly genera Emphytus and Empria from the upper Miocene of France (Hymenoptera, Tenthredinidae). Insects, 13, 218, 1–19. https://doi.org/10.3390/ insects13020218.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-502",
@@ -1633,7 +1767,7 @@
     "kind": "article",
     "title": "危害乳源木莲叶片的枝膜叶蜂属（膜翅目：叶蜂科）一新种",
     "authors": "牛耕耘，何学友，曾丽琼，魏美才",
-    "journal": null,
+    "journal": "林业科学",
     "doi": "10.11707/j.1001-7488.20220107",
     "status": "published",
     "identifier": null,
@@ -1684,7 +1818,11 @@
       "niu-personal-103"
     ],
     "citation": "牛耕耘，何学友，曾丽琼，魏美才. 2022. 危害乳源木莲叶片的枝膜叶蜂属（膜翅目：叶蜂科）一新种. https://doi.org/10.11707/j.1001-7488.20220107",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-505",
@@ -1692,7 +1830,7 @@
     "kind": "article",
     "title": "First fossil representative of the sawfly subfamily Blennocampinae (Hymenoptera: Tenthredinidae)",
     "authors": "Nel A, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Palaeoentomology",
     "doi": "10.11646/palaeoentomology.5.2.1",
     "status": "published",
     "identifier": null,
@@ -1736,7 +1874,11 @@
       "main-505",
       "niu-personal-106"
     ],
-    "citation": "Nel A, Niu GY, Wei MC. 2022. First fossil representative of the sawfly subfamily Blennocampinae (Hymenoptera: Tenthredinidae). Palaeoentomology, 005(2): 099–104."
+    "citation": "Nel A, Niu GY, Wei MC. 2022. First fossil representative of the sawfly subfamily Blennocampinae (Hymenoptera: Tenthredinidae). Palaeoentomology, 005(2): 099–104.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-506",
@@ -1744,7 +1886,7 @@
     "kind": "article",
     "title": "危害鹅掌楸的中国巨基叶蜂属 (膜翅目: 叶蜂科)一新种",
     "authors": "李泽建，刘萌萌，牛耕耘，魏美才.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -1794,7 +1936,11 @@
       "main-506",
       "niu-personal-110"
     ],
-    "citation": "李泽建，刘萌萌，牛耕耘，魏美才. 2022. 危害鹅掌楸的中国巨基叶蜂属 (膜翅目: 叶蜂科)一新种. 林业科学, 58(4): 104–109."
+    "citation": "李泽建，刘萌萌，牛耕耘，魏美才. 2022. 危害鹅掌楸的中国巨基叶蜂属 (膜翅目: 叶蜂科)一新种. 林业科学, 58(4): 104–109.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-508",
@@ -1802,7 +1948,7 @@
     "kind": "article",
     "title": "Two new species and a new combination of Eriotremex Benson (Hymenoptera: Siricidae) with a key to Chinese species",
     "authors": "Wan SY, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -1861,7 +2007,11 @@
       "main-508",
       "niu-personal-109"
     ],
-    "citation": "Wan SY, Niu GY, Wei MC. 2022. Two new species and a new combination of Eriotremex Benson (Hymenoptera: Siricidae) with a key to Chinese species. Entomotaxonomia, 44(2): 154–160."
+    "citation": "Wan SY, Niu GY, Wei MC. 2022. Two new species and a new combination of Eriotremex Benson (Hymenoptera: Siricidae) with a key to Chinese species. Entomotaxonomia, 44(2): 154–160.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-512",
@@ -1939,7 +2089,11 @@
     "volume": "13",
     "issue": "10",
     "pages": "858",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-516",
@@ -1947,7 +2101,7 @@
     "kind": "article",
     "title": "危害白蜡的敛片叶蜂属（膜翅目：叶蜂科）一新种",
     "authors": "牛耕耘，王青华，闫家河，付怀军，刘瑞霞，魏美才.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -1998,7 +2152,11 @@
       "main-516",
       "niu-personal-111"
     ],
-    "citation": "牛耕耘，王青华，闫家河，付怀军，刘瑞霞，魏美才. 2022. 危害白蜡的敛片叶蜂属（膜翅目：叶蜂科）一新种. 林业科学，58(8): 165–172."
+    "citation": "牛耕耘，王青华，闫家河，付怀军，刘瑞霞，魏美才. 2022. 危害白蜡的敛片叶蜂属（膜翅目：叶蜂科）一新种. 林业科学，58(8): 165–172.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-519",
@@ -2006,7 +2164,7 @@
     "kind": "article",
     "title": "Revision of the Oligocene pamphiliid genus and species Tapholyda caplani (Cockerell, 1933)",
     "authors": "Jouault, C., Wei, M.C., Niu, G.Y., Nel A.",
-    "journal": null,
+    "journal": "Palaeoentomology",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2050,7 +2208,11 @@
       "main-519",
       "niu-personal-107"
     ],
-    "citation": "Jouault, C., Wei, M.C., Niu, G.Y., Nel A. 2022. Revision of the Oligocene pamphiliid genus and species Tapholyda caplani (Cockerell, 1933). Palaeoentomology, 5(2): 173–182."
+    "citation": "Jouault, C., Wei, M.C., Niu, G.Y., Nel A. 2022. Revision of the Oligocene pamphiliid genus and species Tapholyda caplani (Cockerell, 1933). Palaeoentomology, 5(2): 173–182.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-520",
@@ -2087,7 +2249,11 @@
       "main-520",
       "supplement-812"
     ],
-    "citation": "黄安平，牛耕耘，何建云著. 2022. 湿地昆虫（2）。长沙：湖南科学技术出版社，1–271."
+    "citation": "黄安平，牛耕耘，何建云著. 2022. 湿地昆虫（2）。长沙：湖南科学技术出版社，1–271.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "main-469",
@@ -2095,7 +2261,7 @@
     "kind": "article",
     "title": "危害大樱桃的樱实叶蜂属(膜翅目: 叶蜂科)一新种",
     "authors": "牛耕耘，武星煜，刘舒歆，杨亚丽，章瑶瑶，魏美才.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2142,7 +2308,11 @@
       "main-469",
       "niu-personal-84"
     ],
-    "citation": "牛耕耘，武星煜，刘舒歆，杨亚丽，章瑶瑶，魏美才. 2021. 危害大樱桃的樱实叶蜂属(膜翅目: 叶蜂科)一新种. 林业科学，57(1): 113–120."
+    "citation": "牛耕耘，武星煜，刘舒歆，杨亚丽，章瑶瑶，魏美才. 2021. 危害大樱桃的樱实叶蜂属(膜翅目: 叶蜂科)一新种. 林业科学，57(1): 113–120.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-470",
@@ -2150,7 +2320,7 @@
     "kind": "article",
     "title": "The first mitochondrial genome of a fern sawfly, Strongylogaster xanthocera Stephens, 1835 (Hymenoptera: Tenthredinidae)",
     "authors": "Liu Yihan; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1886019",
     "status": "published",
     "identifier": null,
@@ -2197,7 +2367,11 @@
     "volume": "6",
     "issue": "3",
     "pages": "902-904",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-471",
@@ -2205,7 +2379,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome sequence of Sinopoppia nigroflagella Wei, 1997 (Hymenoptera: Tenthredinidae) reveals a new gene order",
     "authors": "Wan Siying; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1891989",
     "status": "published",
     "identifier": null,
@@ -2252,7 +2426,11 @@
     "volume": "6",
     "issue": "3",
     "pages": "999-1000",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-472",
@@ -2260,7 +2438,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Allantus togatus (Panzer, 1801), in view of possible cryptic species",
     "authors": "Yang Jiyun; Sun Zemin; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1899875",
     "status": "published",
     "identifier": null,
@@ -2312,7 +2490,11 @@
     "volume": "6",
     "issue": "3",
     "pages": "1114-1115",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-476",
@@ -2320,7 +2502,7 @@
     "kind": "article",
     "title": "A new species of Jinia Wei and Nie (Hymenoptera: Tenthredinidae) from Tibet with a key to known species of the genus",
     "authors": "Niu GY & Wei MC.",
-    "journal": null,
+    "journal": "Proceedings of the Entomological Society of Washington",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2369,7 +2551,11 @@
       "main-476",
       "niu-personal-92"
     ],
-    "citation": "Niu GY & Wei MC. 2021. A new species of Jinia Wei and Nie (Hymenoptera: Tenthredinidae) from Tibet with a key to known species of the genus. Proceedings of the Entomological Society of Washington, 123(2): 360–364."
+    "citation": "Niu GY & Wei MC. 2021. A new species of Jinia Wei and Nie (Hymenoptera: Tenthredinidae) from Tibet with a key to known species of the genus. Proceedings of the Entomological Society of Washington, 123(2): 360–364.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-477",
@@ -2438,7 +2624,11 @@
     "volume": "12",
     "issue": "6",
     "pages": "495",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-478",
@@ -2446,7 +2636,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Cimbex luteus (Hymenoptera: Cimbicidae) and phylogenetic analysis",
     "authors": "Yan Yuchen; Li Ke; Liu Siyi; Niu Gengyun; Wei Meicai",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1907800",
     "status": "published",
     "identifier": null,
@@ -2481,7 +2671,11 @@
     "volume": "6",
     "issue": "7",
     "pages": "2031-2032",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-479",
@@ -2489,7 +2683,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Taxoblenus sinicus Wei & Nie, 1999 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
     "authors": "Sun Zemin; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1942271",
     "status": "published",
     "identifier": null,
@@ -2536,7 +2730,11 @@
     "volume": "6",
     "issue": "7",
     "pages": "2061-2062",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-480",
@@ -2544,7 +2742,7 @@
     "kind": "article",
     "title": "On the genus Tibetajanus Wei (Hymenoptera: Cephidae) with description of a new species",
     "authors": "Nie M, Liu L, Niu GY & Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2597,7 +2795,11 @@
       "main-480",
       "niu-personal-95"
     ],
-    "citation": "Nie M, Liu L, Niu GY & Wei MC. 2021. On the genus Tibetajanus Wei (Hymenoptera: Cephidae) with description of a new species. Entomotaxonomia, 43(2): 151–156."
+    "citation": "Nie M, Liu L, Niu GY & Wei MC. 2021. On the genus Tibetajanus Wei (Hymenoptera: Cephidae) with description of a new species. Entomotaxonomia, 43(2): 151–156.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-483",
@@ -2605,7 +2807,7 @@
     "kind": "article",
     "title": "Characterization of mitochondrial genomes of three new species: Leptocimbex praiaformis, L. clavicornis, and L. yanniae (Hymenoptera: Cimbicidae)",
     "authors": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Entomological Research",
     "doi": "10.1111/1748-5967.12501",
     "status": "published",
     "identifier": null,
@@ -2664,7 +2866,11 @@
     "volume": "51",
     "issue": "6",
     "pages": "287-304",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-485",
@@ -2672,7 +2878,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Conaspidia wangi Wei, 2015 (Hymenoptera: Tenthredinidae) and its phylogenetic analysis",
     "authors": "Yang HL, Lu ZY, Wei MC & Niu GY.",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2714,7 +2920,11 @@
       "main-485",
       "niu-personal-97"
     ],
-    "citation": "Yang HL, Lu ZY, Wei MC & Niu GY. 2021. The complete mitochondrial genome of Conaspidia wangi Wei, 2015 (Hymenoptera: Tenthredinidae) and its phylogenetic analysis. Mitochondrial DNA Part B, 6: 8, 2188–2190."
+    "citation": "Yang HL, Lu ZY, Wei MC & Niu GY. 2021. The complete mitochondrial genome of Conaspidia wangi Wei, 2015 (Hymenoptera: Tenthredinidae) and its phylogenetic analysis. Mitochondrial DNA Part B, 6: 8, 2188–2190.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-486",
@@ -2769,7 +2979,11 @@
     "volume": "6",
     "issue": "8",
     "pages": "2285-2287",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-487",
@@ -2777,7 +2991,7 @@
     "kind": "article",
     "title": "巨棒蜂属（膜翅目: 棒蜂科）一新种暨巨棒蜂属亚洲种类检索表",
     "authors": "牛耕耘，肖炜，魏美才.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2824,7 +3038,11 @@
       "main-487",
       "niu-personal-94"
     ],
-    "citation": "牛耕耘，肖炜，魏美才. 2021. 巨棒蜂属（膜翅目: 棒蜂科）一新种暨巨棒蜂属亚洲种类检索表. 林业科学，57(5): 160–164."
+    "citation": "牛耕耘，肖炜，魏美才. 2021. 巨棒蜂属（膜翅目: 棒蜂科）一新种暨巨棒蜂属亚洲种类检索表. 林业科学，57(5): 160–164.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-489",
@@ -2832,7 +3050,7 @@
     "kind": "article",
     "title": "Review of some Siobla (Hymenoptera: Tenthredinidae) species",
     "authors": "Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Zoological Systematics",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2899,7 +3117,11 @@
       "main-489",
       "niu-personal-90"
     ],
-    "citation": "Niu GY, Wei MC. 2021. Review of some Siobla (Hymenoptera: Tenthredinidae) species. Zoological Systematics, 46(3): 208–224."
+    "citation": "Niu GY, Wei MC. 2021. Review of some Siobla (Hymenoptera: Tenthredinidae) species. Zoological Systematics, 46(3): 208–224.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-491",
@@ -2907,7 +3129,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Hemathlophorus brevigenatus Wei, 2005 (Hymenoptera: Tenthredinidae) with phylogenetic analysis",
     "authors": "Liu JF, Wei MC, Niu GY.",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -2947,7 +3169,11 @@
       "main-491",
       "niu-personal-98"
     ],
-    "citation": "Liu JF, Wei MC, Niu GY. 2021. The complete mitochondrial genome of Hemathlophorus brevigenatus Wei, 2005 (Hymenoptera: Tenthredinidae) with phylogenetic analysis. Mitochondrial DNA Part B, 6: 9, 2759–2761."
+    "citation": "Liu JF, Wei MC, Niu GY. 2021. The complete mitochondrial genome of Hemathlophorus brevigenatus Wei, 2005 (Hymenoptera: Tenthredinidae) with phylogenetic analysis. Mitochondrial DNA Part B, 6: 9, 2759–2761.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-492",
@@ -2955,7 +3181,7 @@
     "kind": "article",
     "title": "A new species of Aprosthema Konow (Hymenoptera: Argidae) with a key to Chinese species",
     "authors": "Wu RX, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3004,7 +3230,11 @@
       "main-492",
       "niu-personal-100"
     ],
-    "citation": "Wu RX, Niu GY, Wei MC. 2021. A new species of Aprosthema Konow (Hymenoptera: Argidae) with a key to Chinese species. Entomotaxonomia, 43(3): 225–229."
+    "citation": "Wu RX, Niu GY, Wei MC. 2021. A new species of Aprosthema Konow (Hymenoptera: Argidae) with a key to Chinese species. Entomotaxonomia, 43(3): 225–229.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-494",
@@ -3012,7 +3242,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome sequence of Taxonus zhangi Wei, 1997 (Hymenoptera: Tenthredinidae) with phylogenetic analysis",
     "authors": "Xu Min; Tan Beibei; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B",
     "doi": "10.1080/23802359.2021.1987173",
     "status": "published",
     "identifier": null,
@@ -3059,7 +3289,11 @@
     "volume": "6",
     "issue": "11",
     "pages": "3188-3189",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-495",
@@ -3067,7 +3301,7 @@
     "kind": "article",
     "title": "Review of Alloxiphia Wei (Hymenoptera: Xiphydriidae), with descriptions of two new species from China",
     "authors": "Sun ZM, Niu GY, Song LD, Wan SY, Wei MC.",
-    "journal": null,
+    "journal": "Zoological Systematics",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3117,7 +3351,11 @@
       "main-495",
       "niu-personal-101"
     ],
-    "citation": "Sun ZM, Niu GY, Song LD, Wan SY, Wei MC. 2021. Review of Alloxiphia Wei (Hymenoptera: Xiphydriidae), with descriptions of two new species from China. Zoological Systematics, 46(4): 317–322."
+    "citation": "Sun ZM, Niu GY, Song LD, Wan SY, Wei MC. 2021. Review of Alloxiphia Wei (Hymenoptera: Xiphydriidae), with descriptions of two new species from China. Zoological Systematics, 46(4): 317–322.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-497",
@@ -3125,7 +3363,7 @@
     "kind": "article",
     "title": "Review of some species of Corrugia (Hymenoptera: Tenthredinidae) with description of a new species and a revised key to world species",
     "authors": "Xiao W, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3190,7 +3428,11 @@
       "main-497",
       "niu-personal-102"
     ],
-    "citation": "Xiao W, Niu GY, Wei MC. 2021. Review of some species of Corrugia (Hymenoptera: Tenthredinidae) with description of a new species and a revised key to world species. Entomotaxonomia, 43(4): 310–321."
+    "citation": "Xiao W, Niu GY, Wei MC. 2021. Review of some species of Corrugia (Hymenoptera: Tenthredinidae) with description of a new species and a revised key to world species. Entomotaxonomia, 43(4): 310–321.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-452",
@@ -3198,7 +3440,7 @@
     "kind": "article",
     "title": "Nearly complete mitochondrial genome of Trichiosoma vitellina Linné, 1760 (Hymenoptera: Tenthredinidae): sequencing and phylogenetic analysis",
     "authors": "Chen Yaping; Wei Meicai; Yang Huilin; Wang Hannan; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2020.1715860",
     "status": "published",
     "identifier": null,
@@ -3245,7 +3487,11 @@
     "volume": "5",
     "issue": "1",
     "pages": "802-803",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-455",
@@ -3253,7 +3499,7 @@
     "kind": "article",
     "title": "Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species",
     "authors": "Xiao W., Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Zoological Systematics",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3308,7 +3554,11 @@
       "main-455",
       "niu-personal-77"
     ],
-    "citation": "Xiao W., Niu GY, Wei MC. 2020. Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species. Zoological Systematics, 45(2): 118–125"
+    "citation": "Xiao W., Niu GY, Wei MC. 2020. Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species. Zoological Systematics, 45(2): 118–125",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-457",
@@ -3316,7 +3566,7 @@
     "kind": "article",
     "title": "Three new species and a key to species of the Siobla grahami group (Hymenoptera: Tenthredinidae) from China",
     "authors": "Zhang YW, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3367,7 +3617,11 @@
       "main-457",
       "niu-personal-78"
     ],
-    "citation": "Zhang YW, Niu GY, Wei MC. 2020. Three new species and a key to species of the Siobla grahami group (Hymenoptera: Tenthredinidae) from China. Entomotaxonomia, 42(2): 130–142."
+    "citation": "Zhang YW, Niu GY, Wei MC. 2020. Three new species and a key to species of the Siobla grahami group (Hymenoptera: Tenthredinidae) from China. Entomotaxonomia, 42(2): 130–142.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-459",
@@ -3375,7 +3629,7 @@
     "kind": "article",
     "title": "Four new species and a key to species of the Siobla sturmii group (Hymenoptera: Tenthredinidae)",
     "authors": "Tang XY, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3428,7 +3682,11 @@
       "main-459",
       "niu-personal-79"
     ],
-    "citation": "Tang XY, Niu GY, Wei MC. 2020. Four new species and a key to species of the Siobla sturmii group (Hymenoptera: Tenthredinidae). Entomotaxonomia, 42(2): 143–162."
+    "citation": "Tang XY, Niu GY, Wei MC. 2020. Four new species and a key to species of the Siobla sturmii group (Hymenoptera: Tenthredinidae). Entomotaxonomia, 42(2): 143–162.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-460",
@@ -3436,7 +3694,7 @@
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Eutomostethus vegetus Konow, 1898 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
     "authors": "Li Ya; Wei Meicai; Liu Jiafen; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2020.1797563",
     "status": "published",
     "identifier": null,
@@ -3471,7 +3729,11 @@
     "volume": "5",
     "issue": "3",
     "pages": "3033-3034",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-461",
@@ -3479,7 +3741,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Praia tianmunica (Hymenoptera: Cimbicidae) with related phylogenetic analysis",
     "authors": "Cheng Yalan; Yan Yuchen; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2020.1797576",
     "status": "published",
     "identifier": null,
@@ -3514,7 +3776,11 @@
     "volume": "5",
     "issue": "3",
     "pages": "3037-3038",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-462",
@@ -3522,7 +3788,7 @@
     "kind": "article",
     "title": "The nearly complete mitochondrial genome of Colochela zhongi Wei, 2016 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
     "authors": "Wu Duo; Wang Hannan; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2020.1820393",
     "status": "published",
     "identifier": null,
@@ -3569,7 +3835,11 @@
     "volume": "5",
     "issue": "3",
     "pages": "3341-3342",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-466",
@@ -3577,7 +3847,7 @@
     "kind": "article",
     "title": "Review of Cladiucha Konow (Hymenoptera: Tenthredinidae) with description of a new species from China",
     "authors": "Niu GY, Zhao H, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3624,7 +3894,11 @@
       "main-466",
       "niu-personal-83"
     ],
-    "citation": "Niu GY, Zhao H, Wei MC. 2020. Review of Cladiucha Konow (Hymenoptera: Tenthredinidae) with description of a new species from China. Entomotaxonomia, 42(4): 311–318."
+    "citation": "Niu GY, Zhao H, Wei MC. 2020. Review of Cladiucha Konow (Hymenoptera: Tenthredinidae) with description of a new species from China. Entomotaxonomia, 42(4): 311–318.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-424",
@@ -3632,7 +3906,7 @@
     "kind": "article",
     "title": "The first mitogenomes of the superfamily Pamphilioidea (Hymenoptera: Symphyta): Mitogenome architecture and phylogenetic inference",
     "authors": "Niu Gengyun; Korkmaz Ertan Mahir; Doğan Özgül; Zhang Yaoyao; Aydemir Merve Nur; Budak Mahir; Du Shiyu; Başıbüyük Hasan Hüseyin; Wei Meicai",
-    "journal": null,
+    "journal": "International Journal of Biological Macromolecules",
     "doi": "10.1016/j.ijbiomac.2018.11.129",
     "status": "published",
     "identifier": null,
@@ -3680,7 +3954,11 @@
     "volume": "124",
     "issue": null,
     "pages": "185-199",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-434",
@@ -3688,7 +3966,7 @@
     "kind": "article",
     "title": "A new species of Gilpinia Benson (Hymenoptera: Diprionidae) from China",
     "authors": "Wang HN, Xiao W, Niu GY, Wu XY, Wei MC*.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3743,7 +4021,11 @@
       "main-434",
       "niu-personal-67"
     ],
-    "citation": "Wang HN, Xiao W, Niu GY, Wu XY, Wei MC*. 2019. A new species of Gilpinia Benson (Hymenoptera: Diprionidae) from China. Entomotaxonomia, 41(1): 19–24."
+    "citation": "Wang HN, Xiao W, Niu GY, Wu XY, Wei MC*. 2019. A new species of Gilpinia Benson (Hymenoptera: Diprionidae) from China. Entomotaxonomia, 41(1): 19–24.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-436",
@@ -3751,7 +4033,7 @@
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Analcellicampa xanthosoma gen. et sp. nov. (Hymenoptera: Tenthredinidae)",
     "authors": "Niu Gengyun; Zhang Yaoyao; Li Zhenyi; Wei Meicai",
-    "journal": null,
+    "journal": "PeerJ",
     "doi": "10.7717/peerj.6866",
     "status": "published",
     "identifier": null,
@@ -3826,7 +4108,11 @@
     "volume": "7",
     "issue": null,
     "pages": "e6866",
-    "article_number": "e6866"
+    "article_number": "e6866",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-437",
@@ -3834,7 +4120,7 @@
     "kind": "article",
     "title": "Gilpinia infuscalae Wang & Wei, sp. nov. and a key to the Chinese Gilpinia species (Hymenoptera: Diprionidae)",
     "authors": "Wang HN, Smith DR, Xiao W, Niu GY, Wei MC.",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3899,7 +4185,11 @@
       "main-437",
       "niu-personal-68"
     ],
-    "citation": "Wang HN, Smith DR, Xiao W, Niu GY, Wei MC. 2019. Gilpinia infuscalae Wang & Wei, sp. nov. and a key to the Chinese Gilpinia species (Hymenoptera: Diprionidae). Zootaxa, 4571(4): 589–596."
+    "citation": "Wang HN, Smith DR, Xiao W, Niu GY, Wei MC. 2019. Gilpinia infuscalae Wang & Wei, sp. nov. and a key to the Chinese Gilpinia species (Hymenoptera: Diprionidae). Zootaxa, 4571(4): 589–596.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-441",
@@ -3907,7 +4197,7 @@
     "kind": "article",
     "title": "Two new species of Tenthredo fortunei group (Hymenoptera, Tenthredinidae) from China with a key to subgroups and known species of nigricornis subgroup",
     "authors": "Niu GY, Hu P, Luo X, Wei MC.",
-    "journal": null,
+    "journal": "Entomological Research",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -3958,7 +4248,11 @@
       "main-441",
       "niu-personal-66"
     ],
-    "citation": "Niu GY, Hu P, Luo X, Wei MC. 2019. Two new species of Tenthredo fortunei group (Hymenoptera, Tenthredinidae) from China with a key to subgroups and known species of nigricornis subgroup. Entomological Research, 49: 323–329."
+    "citation": "Niu GY, Hu P, Luo X, Wei MC. 2019. Two new species of Tenthredo fortunei group (Hymenoptera, Tenthredinidae) from China with a key to subgroups and known species of nigricornis subgroup. Entomological Research, 49: 323–329.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-443",
@@ -3966,7 +4260,7 @@
     "kind": "article",
     "title": "Complete mitochondrial genome sequence of Labriocimbex sinicus, a new genus and new species of Cimbicidae (Hymenoptera) from China",
     "authors": "Yan Yuchen; Niu Gengyun; Zhang Yaoyao; Ren Qianying; Du Shiyu; Lan Bocheng; Wei Meicai",
-    "journal": null,
+    "journal": "PeerJ",
     "doi": "10.7717/peerj.7853",
     "status": "published",
     "identifier": null,
@@ -4043,7 +4337,11 @@
     "volume": "7",
     "issue": null,
     "pages": "e7853",
-    "article_number": "e7853"
+    "article_number": "e7853",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-445",
@@ -4051,7 +4349,7 @@
     "kind": "article",
     "title": "Two new species of Xiphydriidae (Hymenoptera) from China",
     "authors": "Li Y, Chen YP, Niu G, Wei MC.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4101,7 +4399,11 @@
       "main-445",
       "niu-personal-70"
     ],
-    "citation": "Li Y, Chen YP, Niu G, Wei MC. 2019. Two new species of Xiphydriidae (Hymenoptera) from China. Entomotaxonomia, 41(3): 174–180."
+    "citation": "Li Y, Chen YP, Niu G, Wei MC. 2019. Two new species of Xiphydriidae (Hymenoptera) from China. Entomotaxonomia, 41(3): 174–180.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-446",
@@ -4109,7 +4411,7 @@
     "kind": "article",
     "title": "The complete mitochondrial genome of Athalia proxima (Hymenoptery: Tenthredinidae) and phylogenetic analysis",
     "authors": "He Huimin; Niu Gengyun; Zhang Bin; Wei Meicai",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2019.1687042",
     "status": "published",
     "identifier": null,
@@ -4156,7 +4458,11 @@
     "volume": "4",
     "issue": "2",
     "pages": "3868-3869",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-447",
@@ -4164,7 +4470,7 @@
     "kind": "article",
     "title": "Advancement in sequencing the mitochondrial genome of Birmella discoidalisa Wei, 1994 (Hymenoptera: Tenthredinidae) and the phylogenetic classification of Fenusini",
     "authors": "Wu Ruoxuan; Wei Meicai; Liu Mengmeng; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2019.1692728",
     "status": "published",
     "identifier": null,
@@ -4199,7 +4505,11 @@
     "volume": "4",
     "issue": "2",
     "pages": "4100-4101",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-448",
@@ -4207,7 +4517,7 @@
     "kind": "article",
     "title": "Nearly complete mitochondrial genome of Siobla xizangensis Xiao, Huang & Zhou, 1988 (Hymenoptera: Tenthredinidae) and phylogenetic analysis",
     "authors": "Luo Xi; Wei Meicai; Niu Gengyun",
-    "journal": null,
+    "journal": "Mitochondrial DNA Part B Resources",
     "doi": "10.1080/23802359.2019.1692729",
     "status": "published",
     "identifier": null,
@@ -4242,7 +4552,11 @@
     "volume": "4",
     "issue": "2",
     "pages": "4102-4103",
-    "article_number": null
+    "article_number": null,
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-451",
@@ -4280,7 +4594,11 @@
       "supplement-810",
       "niu-personal-75"
     ],
-    "citation": "魏美才，牛耕耘，高凯文. 2019. 膜翅目：三节叶蜂科、叶蜂科、扁蜂科、茎蜂科. 249–276. 见：王海建，石福明，王磊主编，四川鞍子河自然保护区昆虫。北京：中国农业出版社."
+    "citation": "魏美才，牛耕耘，高凯文. 2019. 膜翅目：三节叶蜂科、叶蜂科、扁蜂科、茎蜂科. 249–276. 见：王海建，石福明，王磊主编，四川鞍子河自然保护区昆虫。北京：中国农业出版社.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-407",
@@ -4317,7 +4635,11 @@
       "main-407",
       "niu-personal-62"
     ],
-    "citation": "魏美才，牛耕耘，李泽建，钟义海，肖炜，朱巽. 2018. 膜翅目：广腰亚目. pp. 1-384. 陈学新，魏美才，唐璞. 2018.秦岭昆虫志：膜翅目. 世界图书出版西安有限公司. 1-976。"
+    "citation": "魏美才，牛耕耘，李泽建，钟义海，肖炜，朱巽. 2018. 膜翅目：广腰亚目. pp. 1-384. 陈学新，魏美才，唐璞. 2018.秦岭昆虫志：膜翅目. 世界图书出版西安有限公司. 1-976。",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-409",
@@ -4325,7 +4647,7 @@
     "kind": "article",
     "title": "A new species from the Nematus lucidus group (Hymenoptera: Tenthredinidae) in China",
     "authors": "Liu, M-M., Li, Z-J., Wei, M-C. & Niu, G-Y.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4379,7 +4701,11 @@
       "main-409",
       "niu-personal-60"
     ],
-    "citation": "Liu, M-M., Li, Z-J., Wei, M-C. & Niu, G-Y. 2018. A new species from the Nematus lucidus group (Hymenoptera: Tenthredinidae) in China. Entomotaxonomia, 40(1): 1–6."
+    "citation": "Liu, M-M., Li, Z-J., Wei, M-C. & Niu, G-Y. 2018. A new species from the Nematus lucidus group (Hymenoptera: Tenthredinidae) in China. Entomotaxonomia, 40(1): 1–6.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-415",
@@ -4387,7 +4713,7 @@
     "kind": "article",
     "title": "危害欧美杨的中国厚爪叶蜂属（膜翅目: 叶蜂科）一新种",
     "authors": "刘萌萌，李泽建，闫家河，魏美才，牛耕耘.",
-    "journal": null,
+    "journal": "林业科学",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -4434,7 +4760,11 @@
       "main-415",
       "niu-personal-61"
     ],
-    "citation": "刘萌萌，李泽建，闫家河，魏美才，牛耕耘. 2018. 危害欧美杨的中国厚爪叶蜂属（膜翅目: 叶蜂科）一新种. 林业科学, 54(6): 94–99."
+    "citation": "刘萌萌，李泽建，闫家河，魏美才，牛耕耘. 2018. 危害欧美杨的中国厚爪叶蜂属（膜翅目: 叶蜂科）一新种. 林业科学, 54(6): 94–99.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-418",
@@ -4442,7 +4772,7 @@
     "kind": "article",
     "title": "Review of Magnitarsijanus Wei (Hymenoptera: Cephidae) with description of a new species from China",
     "authors": "Liu, L., Niu, G. & Wei, M.",
-    "journal": null,
+    "journal": "Proceedings of the Entomological Society of Washington",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4504,7 +4834,11 @@
       "main-418",
       "niu-personal-59"
     ],
-    "citation": "Liu, L., Niu, G. & Wei, M. 2018. Review of Magnitarsijanus Wei (Hymenoptera: Cephidae) with description of a new species from China. Proceedings of the Entomological Society of Washington, 120(3): 568–574."
+    "citation": "Liu, L., Niu, G. & Wei, M. 2018. Review of Magnitarsijanus Wei (Hymenoptera: Cephidae) with description of a new species from China. Proceedings of the Entomological Society of Washington, 120(3): 568–574.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-419",
@@ -4542,7 +4876,11 @@
       "supplement-809",
       "niu-personal-63"
     ],
-    "citation": "魏美才，李泽建，牛耕耘，王晓华. 2018. 膜翅目：三节叶蜂科，锤角叶蜂科，叶蜂科，扁蜂科. pp. 436-461. 见：石福明，王建军等著. 历山昆虫与蛛形动物. 北京：科学出版社。"
+    "citation": "魏美才，李泽建，牛耕耘，王晓华. 2018. 膜翅目：三节叶蜂科，锤角叶蜂科，叶蜂科，扁蜂科. pp. 436-461. 见：石福明，王建军等著. 历山昆虫与蛛形动物. 北京：科学出版社。",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-422",
@@ -4550,7 +4888,7 @@
     "kind": "article",
     "title": "Review of Leptocimbex formosanus group (Hymenoptera: Cimbicidae) with two new Chinese species",
     "authors": "Yan, Y., Niu, G., Lan, B. & Wei, M.*",
-    "journal": null,
+    "journal": "Entomological Research",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4602,7 +4940,11 @@
       "main-422",
       "niu-personal-58"
     ],
-    "citation": "Yan, Y., Niu, G., Lan, B. & Wei, M.* 2018. Review of Leptocimbex formosanus group (Hymenoptera: Cimbicidae) with two new Chinese species. Entomological Research, 48: 372-383."
+    "citation": "Yan, Y., Niu, G., Lan, B. & Wei, M.* 2018. Review of Leptocimbex formosanus group (Hymenoptera: Cimbicidae) with two new Chinese species. Entomological Research, 48: 372-383.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-425",
@@ -4610,7 +4952,7 @@
     "kind": "article",
     "title": "Characterization of the mitochondrial genome of Arge bella Wei & Du sp. nov. (Hymenoptera: Argidae)",
     "authors": "Du Shiyu; Niu Gengyun; Nyman Tommi; Wei Meicai",
-    "journal": null,
+    "journal": "PeerJ",
     "doi": "10.7717/peerj.6131",
     "status": "published",
     "identifier": null,
@@ -4667,7 +5009,11 @@
     "volume": "6",
     "issue": null,
     "pages": "e6131",
-    "article_number": "e6131"
+    "article_number": "e6131",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-399",
@@ -4675,7 +5021,7 @@
     "kind": "article",
     "title": "A new genus and a new species of Anhoplocampini from China (Hymenoptera: Tenthredinidae)",
     "authors": "Liu, T., Niu, G., Wei* M.",
-    "journal": null,
+    "journal": "Proceedings of Entomological Society of Washington",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4732,7 +5078,11 @@
       "main-399",
       "niu-personal-56"
     ],
-    "citation": "Liu, T., Niu, G., Wei* M. 2017. A new genus and a new species of Anhoplocampini from China (Hymenoptera: Tenthredinidae). Proceedings of Entomological Society of Washington, 119: 801–806."
+    "citation": "Liu, T., Niu, G., Wei* M. 2017. A new genus and a new species of Anhoplocampini from China (Hymenoptera: Tenthredinidae). Proceedings of Entomological Society of Washington, 119: 801–806.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-400",
@@ -4740,7 +5090,7 @@
     "kind": "article",
     "title": "Two new species of the Tenthredo fortunei group (Hymenoptera: Tenthredinidae) from China",
     "authors": "Niu, G., Hu, P. & Wei, M.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4792,7 +5142,11 @@
       "main-400",
       "niu-personal-57"
     ],
-    "citation": "Niu, G., Hu, P. & Wei, M. 2017. Two new species of the Tenthredo fortunei group (Hymenoptera: Tenthredinidae) from China. Entomotaxonomia, 39(3): 188–196."
+    "citation": "Niu, G., Hu, P. & Wei, M. 2017. Two new species of the Tenthredo fortunei group (Hymenoptera: Tenthredinidae) from China. Entomotaxonomia, 39(3): 188–196.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-379",
@@ -4800,7 +5154,7 @@
     "kind": "article",
     "title": "Revision of Colochela (Hymenoptera: Tenthredinidae)",
     "authors": "Niu, G. & Wei, M. *",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -4857,7 +5211,11 @@
       "main-379",
       "niu-personal-53"
     ],
-    "citation": "Niu, G. & Wei, M. * 2016. Revision of Colochela (Hymenoptera: Tenthredinidae). Zootaxa, 4127(3): 457– 470."
+    "citation": "Niu, G. & Wei, M. * 2016. Revision of Colochela (Hymenoptera: Tenthredinidae). Zootaxa, 4127(3): 457– 470.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-380",
@@ -4865,7 +5223,7 @@
     "kind": "article",
     "title": "Revision of Neocolochelyna Malaise (Hymenoptera: Tenthredinidae)",
     "authors": "Niu, G., Wei, M. * Shinohara, A. & Naito, T.",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": "10.11646/zootaxa.4127.3.2",
     "status": "published",
     "identifier": null,
@@ -4938,7 +5296,11 @@
       "niu-personal-54"
     ],
     "citation": "Niu, G., Wei, M. * Shinohara, A. & Naito, T.. 2016. Revision of Neocolochelyna Malaise (Hymenoptera: Tenthredinidae). https://doi.org/10.11646/zootaxa.4127.3.2",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-387",
@@ -4946,7 +5308,7 @@
     "kind": "article",
     "title": "A new genus and a new species of Atelozini from China (Hymenoptera: Tenthredinidae)",
     "authors": "Niu, G. & Wei*, M",
-    "journal": null,
+    "journal": "Proceedings of Washington Entomological Society",
     "doi": "10.4289/0013-8797.118.3.382",
     "status": "published",
     "identifier": null,
@@ -5002,7 +5364,11 @@
       "main-387",
       "niu-personal-55"
     ],
-    "citation": "Niu, G. & Wei*, M 2016. A new genus and a new species of Atelozini from China (Hymenoptera: Tenthredinidae). Proceedings of Washington Entomological Society, 118(3): 282–288."
+    "citation": "Niu, G. & Wei*, M 2016. A new genus and a new species of Atelozini from China (Hymenoptera: Tenthredinidae). Proceedings of Washington Entomological Society, 118(3): 282–288.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-365",
@@ -5010,7 +5376,7 @@
     "kind": "article",
     "title": "Two new species of Hartigia Schiødte from China (Hymenoptera: Cephidae)",
     "authors": "Niu, G., Xiao, W. & Wei, M.",
-    "journal": null,
+    "journal": "Zoological systematics",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5058,7 +5424,11 @@
       "main-365",
       "niu-personal-48"
     ],
-    "citation": "Niu, G., Xiao, W. & Wei, M. 2015. Two new species of Hartigia Schiødte from China (Hymenoptera: Cephidae). Zoological systematics, 40(2): 223-227."
+    "citation": "Niu, G., Xiao, W. & Wei, M. 2015. Two new species of Hartigia Schiødte from China (Hymenoptera: Cephidae). Zoological systematics, 40(2): 223-227.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-369",
@@ -5066,7 +5436,7 @@
     "kind": "article",
     "title": "New species and new synonyms of Conaspidia Konow (Hymenoptera: Tenthredinidae) with keys to species of the Conaspidia bicuspis group and Japanese species",
     "authors": "Qi, L., Niu, G., Liu, T. & Wei, M.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5095,7 +5465,11 @@
       "main-369",
       "niu-personal-49"
     ],
-    "citation": "Qi, L., Niu, G., Liu, T. & Wei, M. 2015. New species and new synonyms of Conaspidia Konow (Hymenoptera: Tenthredinidae) with keys to species of the Conaspidia bicuspis group and Japanese species. Entomotaxonomia, 37(3): 221-233."
+    "citation": "Qi, L., Niu, G., Liu, T. & Wei, M. 2015. New species and new synonyms of Conaspidia Konow (Hymenoptera: Tenthredinidae) with keys to species of the Conaspidia bicuspis group and Japanese species. Entomotaxonomia, 37(3): 221-233.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-371",
@@ -5103,7 +5477,7 @@
     "kind": "article",
     "title": "Review of Stenocephus Shinohara (Hymenoptera: Cephidae), with description of a new species from China",
     "authors": "Wei, M., Niu, G. & Yan, J.",
-    "journal": null,
+    "journal": "Proceedings of Washington Entomological Society",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5157,7 +5531,11 @@
       "main-371",
       "niu-personal-50"
     ],
-    "citation": "Wei, M., Niu, G. & Yan, J. 2015. Review of Stenocephus Shinohara (Hymenoptera: Cephidae), with description of a new species from China. Proceedings of Washington Entomological Society, 117(4): 508-518."
+    "citation": "Wei, M., Niu, G. & Yan, J. 2015. Review of Stenocephus Shinohara (Hymenoptera: Cephidae), with description of a new species from China. Proceedings of Washington Entomological Society, 117(4): 508-518.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-372",
@@ -5165,7 +5543,7 @@
     "kind": "article",
     "title": "Yangixiphia Wei (Hymenoptera: Xiphydriidae) with descriptions of two new species from China and a key to species",
     "authors": "Niu, G., Wei, M.",
-    "journal": null,
+    "journal": "Entomological News",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5220,7 +5598,11 @@
       "main-372",
       "niu-personal-51"
     ],
-    "citation": "Niu, G., Wei, M. 2015. Yangixiphia Wei (Hymenoptera: Xiphydriidae) with descriptions of two new species from China and a key to species. Entomological News, 124(5):335-344."
+    "citation": "Niu, G., Wei, M. 2015. Yangixiphia Wei (Hymenoptera: Xiphydriidae) with descriptions of two new species from China and a key to species. Entomological News, 124(5):335-344.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-373",
@@ -5228,7 +5610,7 @@
     "kind": "article",
     "title": "Four new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Tibet, China",
     "authors": "Niu, G., Liu, T., Chu, B. & Wei, M.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5282,7 +5664,11 @@
       "main-373",
       "niu-personal-52"
     ],
-    "citation": "Niu, G., Liu, T., Chu, B. & Wei, M. 2015. Four new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Tibet, China. Entomotaxonomia, 37(4): 303-313."
+    "citation": "Niu, G., Liu, T., Chu, B. & Wei, M. 2015. Four new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Tibet, China. Entomotaxonomia, 37(4): 303-313.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-357",
@@ -5290,7 +5676,7 @@
     "kind": "article",
     "title": "A second species of Tyloceridius Malaise (Hymenoptera: Tenthredinidae)",
     "authors": "Wei M., Niu G., A. Taeger.",
-    "journal": null,
+    "journal": "ZooKeys",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5339,7 +5725,11 @@
       "main-357",
       "niu-personal-45"
     ],
-    "citation": "Wei M., Niu G., A. Taeger. 2014. A second species of Tyloceridius Malaise (Hymenoptera: Tenthredinidae). ZooKeys, 396: 55–65."
+    "citation": "Wei M., Niu G., A. Taeger. 2014. A second species of Tyloceridius Malaise (Hymenoptera: Tenthredinidae). ZooKeys, 396: 55–65.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-358",
@@ -5347,7 +5737,7 @@
     "kind": "article",
     "title": "Setabara Ross, a genus new to China with description of a new species (Hymenoptera: Tenthredinidae)",
     "authors": "Wei, M.C. & Niu, G.Y.",
-    "journal": null,
+    "journal": "Entomological News",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5394,7 +5784,11 @@
       "main-358",
       "niu-personal-46"
     ],
-    "citation": "Wei, M.C. & Niu, G.Y. 2014. Setabara Ross, a genus new to China with description of a new species (Hymenoptera: Tenthredinidae). Entomological news, 124(2): 98-102."
+    "citation": "Wei, M.C. & Niu, G.Y. 2014. Setabara Ross, a genus new to China with description of a new species (Hymenoptera: Tenthredinidae). Entomological news, 124(2): 98-102.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-363",
@@ -5432,7 +5826,11 @@
       "supplement-807",
       "niu-personal-47"
     ],
-    "citation": "魏美才，牛耕耘，肖炜，李泽建. 2014. 三节叶蜂科、锤角叶蜂科、松叶蜂科、叶蜂科、扁蜂科. Pp. 294-311. 见：王义平、童彩亮主编，浙江清凉峰昆虫。北京：中国林业出版社。"
+    "citation": "魏美才，牛耕耘，肖炜，李泽建. 2014. 三节叶蜂科、锤角叶蜂科、松叶蜂科、叶蜂科、扁蜂科. Pp. 294-311. 见：王义平、童彩亮主编，浙江清凉峰昆虫。北京：中国林业出版社。",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-333",
@@ -5440,7 +5838,7 @@
     "kind": "article",
     "title": "A new species of the genus Emphytopsis Wei et Nie (Hymenoptera, Tenthredinidae) feeding on Stewartia gemmata",
     "authors": "Wei M. & Niu G.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5486,7 +5884,11 @@
       "main-333",
       "niu-personal-37"
     ],
-    "citation": "Wei M. & Niu G. 2013. A new species of the genus Emphytopsis Wei et Nie (Hymenoptera, Tenthredinidae) feeding on Stewartia gemmata. Acta Zootaxonomica Sinica, 38(1): 134–137."
+    "citation": "Wei M. & Niu G. 2013. A new species of the genus Emphytopsis Wei et Nie (Hymenoptera, Tenthredinidae) feeding on Stewartia gemmata. Acta Zootaxonomica Sinica, 38(1): 134–137.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-338",
@@ -5494,7 +5896,7 @@
     "kind": "article",
     "title": "On the sawfly species described by S. A. Rohwer from Taiwan and revision of some species (Hymenoptera, Tenthredinidae)",
     "authors": "Wei M. & Niu G.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5559,7 +5961,11 @@
       "niu-personal-38"
     ],
     "citation": "Wei M. & Niu G.. 2013. On the sawfly species described by S. A. Rohwer from Taiwan and revision of some species (Hymenoptera, Tenthredinidae).",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-339",
@@ -5567,7 +5973,7 @@
     "kind": "article",
     "title": "Two new species of Siobla Cameron (Hymenoptera, Tenthredinidae) from Sichuan, China",
     "authors": "Niu G. & Wei M.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5615,7 +6021,11 @@
       "main-339",
       "niu-personal-39"
     ],
-    "citation": "Niu G. & Wei M. 2013. Two new species of Siobla Cameron (Hymenoptera, Tenthredinidae) from Sichuan, China. Acta Zootaxonomica Sinica, 38(3): 597–602."
+    "citation": "Niu G. & Wei M. 2013. Two new species of Siobla Cameron (Hymenoptera, Tenthredinidae) from Sichuan, China. Acta Zootaxonomica Sinica, 38(3): 597–602.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-343",
@@ -5623,7 +6033,7 @@
     "kind": "article",
     "title": "Review of Aneugmenus Hartig (Hymenoptera: Tenthredinidae) with description of a new species from China and a key to world species (excluding Neotropical)",
     "authors": "Niu G. & Wei M.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5685,7 +6095,11 @@
       "main-343",
       "niu-personal-40"
     ],
-    "citation": "Niu G. & Wei M. 2013. Review of Aneugmenus Hartig (Hymenoptera: Tenthredinidae) with description of a new species from China and a key to world species (excluding Neotropical). Entomotaxonomia, 35(3): 221–232."
+    "citation": "Niu G. & Wei M. 2013. Review of Aneugmenus Hartig (Hymenoptera: Tenthredinidae) with description of a new species from China and a key to world species (excluding Neotropical). Entomotaxonomia, 35(3): 221–232.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-348",
@@ -5693,7 +6107,7 @@
     "kind": "article",
     "title": "Two new species of Euforsius Malaise with a key to known species (Hymenoptera, Tenthredinidae)",
     "authors": "Niu G. & Wei M.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5741,7 +6155,11 @@
       "main-348",
       "niu-personal-41"
     ],
-    "citation": "Niu G. & Wei M. 2013. Two new species of Euforsius Malaise with a key to known species (Hymenoptera, Tenthredinidae). Acta Zootaxonomica Sinica, 38(4): 855–860."
+    "citation": "Niu G. & Wei M. 2013. Two new species of Euforsius Malaise with a key to known species (Hymenoptera, Tenthredinidae). Acta Zootaxonomica Sinica, 38(4): 855–860.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-351",
@@ -5749,7 +6167,7 @@
     "kind": "article",
     "title": "Revision of Siobla (Hymenoptera, Tenthredinidae) from Japan",
     "authors": "Shinohara A., Wei M. & Niu G.",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": "10.11646/zootaxa.3746.1.1",
     "status": "published",
     "identifier": null,
@@ -5814,7 +6232,11 @@
       "main-351",
       "niu-personal-42"
     ],
-    "citation": "Shinohara A., Wei M. & Niu G. 2013. Revision of Siobla (Hymenoptera, Tenthredinidae) from Japan. Zootaxa, 3746 (1): 001–040."
+    "citation": "Shinohara A., Wei M. & Niu G. 2013. Revision of Siobla (Hymenoptera, Tenthredinidae) from Japan. Zootaxa, 3746 (1): 001–040.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-352",
@@ -5822,7 +6244,7 @@
     "kind": "article",
     "title": "Revision of the Siobla formosana group (Hymenoptera: Tenthredinidae)",
     "authors": "Niu G. & Wei M.",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": "10.11646/zootaxa.3746.1.2",
     "status": "published",
     "identifier": null,
@@ -5875,7 +6297,11 @@
       "main-352",
       "niu-personal-43"
     ],
-    "citation": "Niu G. & Wei M. 2013. Revision of the Siobla formosana group (Hymenoptera: Tenthredinidae). Zootaxa, 3746 (1): 041–068."
+    "citation": "Niu G. & Wei M. 2013. Revision of the Siobla formosana group (Hymenoptera: Tenthredinidae). Zootaxa, 3746 (1): 041–068.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-353",
@@ -5914,7 +6340,11 @@
       "supplement-803",
       "niu-personal-44"
     ],
-    "citation": "魏美才，刘艳霞，牛耕耘，薛俊哲. 2013. 叶蜂总科 Tenthredinoidea. Pp. 264–282. 见：周善义主编，广西大明山昆虫. 桂林：广西师范大学出版社."
+    "citation": "魏美才，刘艳霞，牛耕耘，薛俊哲. 2013. 叶蜂总科 Tenthredinoidea. Pp. 264–282. 见：周善义主编，广西大明山昆虫. 桂林：广西师范大学出版社.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-312",
@@ -5922,7 +6352,7 @@
     "kind": "article",
     "title": "Revision of the Siobla metallica group (Hymenoptera: Tenthredinidae)",
     "authors": "Niu G.Y. & M.C.Wei,",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -5989,7 +6419,11 @@
       "main-312",
       "niu-personal-32"
     ],
-    "citation": "Niu G.Y. & M.C.Wei, 2012. Revision of the Siobla metallica group (Hymenoptera: Tenthredinidae). Zootaxa, 3196: 1-49."
+    "citation": "Niu G.Y. & M.C.Wei, 2012. Revision of the Siobla metallica group (Hymenoptera: Tenthredinidae). Zootaxa, 3196: 1-49.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-318",
@@ -5997,7 +6431,7 @@
     "kind": "article",
     "title": "中国广西平背叶蜂亚科三新种 (膜翅目，叶蜂科)",
     "authors": "刘艳霞, 牛耕耘, 魏美才.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6050,7 +6484,11 @@
       "main-318",
       "niu-personal-33"
     ],
-    "citation": "刘艳霞, 牛耕耘, 魏美才. 2012. 中国广西平背叶蜂亚科三新种 (膜翅目，叶蜂科). 动物分类学报, 37(2): 358-362."
+    "citation": "刘艳霞, 牛耕耘, 魏美才. 2012. 中国广西平背叶蜂亚科三新种 (膜翅目，叶蜂科). 动物分类学报, 37(2): 358-362.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-322",
@@ -6058,7 +6496,7 @@
     "kind": "article",
     "title": "Three new species of Belesesinae (Hymenoptera, Tenthredinidae) from China",
     "authors": "Niu G., Xue J., Wei M.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6111,7 +6549,11 @@
       "main-322",
       "niu-personal-34"
     ],
-    "citation": "Niu G., Xue J., Wei M. 2012. Three new species of Belesesinae (Hymenoptera, Tenthredinidae) from China. Acta Zootaxonomica Sinica, 589-595."
+    "citation": "Niu G., Xue J., Wei M. 2012. Three new species of Belesesinae (Hymenoptera, Tenthredinidae) from China. Acta Zootaxonomica Sinica, 589-595.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-323",
@@ -6119,7 +6561,7 @@
     "kind": "article",
     "title": "Seven new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Shaanxi, China",
     "authors": "Niu G. Xiao W., Wei M.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6177,7 +6619,11 @@
       "main-323",
       "niu-personal-35"
     ],
-    "citation": "Niu G. Xiao W., Wei M. 2012. Seven new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Shaanxi, China. Entomotaxonomia, 34(2): 399-422."
+    "citation": "Niu G. Xiao W., Wei M. 2012. Seven new species and a key to species of Siobla (Hymenoptera: Tenthredinidae) from Shaanxi, China. Entomotaxonomia, 34(2): 399-422.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-326",
@@ -6185,7 +6631,7 @@
     "kind": "article",
     "title": "Rediscovery of Odontocimbex svenhedini Malaise (Hymenoptera: Cimbicidae) from China with description of the female and a key to Asian genera of Cimbicidae",
     "authors": "Wei M., Wu X., Niu G., Xin H.",
-    "journal": null,
+    "journal": "Entomotaxonomia",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6235,7 +6681,11 @@
       "main-326",
       "niu-personal-36"
     ],
-    "citation": "Wei M., Wu X., Niu G., Xin H. 2012. Rediscovery of Odontocimbex svenhedini Malaise (Hymenoptera: Cimbicidae) from China with description of the female and a key to Asian genera of Cimbicidae. Entomotaxonomia, 34(2): 435-441."
+    "citation": "Wei M., Wu X., Niu G., Xin H. 2012. Rediscovery of Odontocimbex svenhedini Malaise (Hymenoptera: Cimbicidae) from China with description of the female and a key to Asian genera of Cimbicidae. Entomotaxonomia, 34(2): 435-441.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-302",
@@ -6243,7 +6693,7 @@
     "kind": "article",
     "title": "Review of Anhoplocampa Wei (Hymenoptera, Tenthredinidae), with description of a new species and a new combination",
     "authors": "Wei M.C. & G.Y. Niu,",
-    "journal": null,
+    "journal": "Zookeys",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6299,7 +6749,11 @@
       "main-302",
       "niu-personal-26"
     ],
-    "citation": "Wei M.C. & G.Y. Niu, 2011. Review of Anhoplocampa Wei (Hymenoptera, Tenthredinidae), with description of a new species and a new combination. Zookeys, 159: 81-90."
+    "citation": "Wei M.C. & G.Y. Niu, 2011. Review of Anhoplocampa Wei (Hymenoptera, Tenthredinidae), with description of a new species and a new combination. Zookeys, 159: 81-90.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-303",
@@ -6307,7 +6761,7 @@
     "kind": "article",
     "title": "Revision of Emphytopsis Wei & Nie (Hymenoptera: Tenthredinidae) with descriptions of seven new species from China and Japan",
     "authors": "Wei M.C., Y. Xu & G.Y. Niu,",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -6378,7 +6832,11 @@
       "niu-personal-27"
     ],
     "citation": "Wei M.C., Y. Xu & G.Y. Niu,. 2011. Revision of Emphytopsis Wei & Nie (Hymenoptera: Tenthredinidae) with descriptions of seven new species from China and Japan.",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-304",
@@ -6386,7 +6844,7 @@
     "kind": "article",
     "title": "Heteroxiphia Saini & Singh (Hymenoptera, Xiphydriidae), a genus new to China with descriptions of two new species",
     "authors": "Wei M.C. & G.Y. Niu,",
-    "journal": null,
+    "journal": "Zookeys",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6436,7 +6894,11 @@
       "main-304",
       "niu-personal-28"
     ],
-    "citation": "Wei M.C. & G.Y. Niu, 2011. Heteroxiphia Saini & Singh (Hymenoptera, Xiphydriidae), a genus new to China with descriptions of two new species. Zookeys, 102: 41-49."
+    "citation": "Wei M.C. & G.Y. Niu, 2011. Heteroxiphia Saini & Singh (Hymenoptera, Xiphydriidae), a genus new to China with descriptions of two new species. Zookeys, 102: 41-49.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-305",
@@ -6444,7 +6906,7 @@
     "kind": "article",
     "title": "Revision of Siobla (Hymenoptera: Tenthredinidae) from Taiwan with descriptions of three new species and proposition of three new synonyms",
     "authors": "Niu G.Y. & M.C. Wei,",
-    "journal": null,
+    "journal": "Japanese Journal of Systematic Entomology",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -6492,7 +6954,11 @@
       "main-305",
       "niu-personal-29"
     ],
-    "citation": "Niu G.Y. & M.C. Wei, 2011. Revision of Siobla (Hymenoptera: Tenthredinidae) from Taiwan with descriptions of three new species and proposition of three new synonyms. Japanese Journal of Systematic Entomology, 17 (2): 155-176."
+    "citation": "Niu G.Y. & M.C. Wei, 2011. Revision of Siobla (Hymenoptera: Tenthredinidae) from Taiwan with descriptions of three new species and proposition of three new synonyms. Japanese Journal of Systematic Entomology, 17 (2): 155-176.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-307",
@@ -6500,7 +6966,7 @@
     "kind": "article",
     "title": "中国叶蜂属二新种 (膜翅目, 叶蜂科)",
     "authors": "牛耕耘, 魏美才.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -6547,7 +7013,11 @@
       "main-307",
       "niu-personal-30"
     ],
-    "citation": "牛耕耘, 魏美才. 2011. 中国叶蜂属二新种 (膜翅目, 叶蜂科). 动物分类学报, 36 (2): 414-418."
+    "citation": "牛耕耘, 魏美才. 2011. 中国叶蜂属二新种 (膜翅目, 叶蜂科). 动物分类学报, 36 (2): 414-418.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-311",
@@ -6585,7 +7055,11 @@
       "supplement-802",
       "niu-personal-31"
     ],
-    "citation": "魏美才，李泽建，牛耕耘，姚明灿. 2011. 叶蜂专题. Pp. 111-119. 见：杨道德，庾庐山，喻勋林主编，湖南东安舜皇山自然保护区综合科学考察报告集. 长沙：湖南科学技术出版社."
+    "citation": "魏美才，李泽建，牛耕耘，姚明灿. 2011. 叶蜂专题. Pp. 111-119. 见：杨道德，庾庐山，喻勋林主编，湖南东安舜皇山自然保护区综合科学考察报告集. 长沙：湖南科学技术出版社.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-282",
@@ -6593,7 +7067,7 @@
     "kind": "article",
     "title": "Revision of the Siobla annulicornis, acutiscutella and sheni groups (Hymenoptera: Tenthredinidae)",
     "authors": "Niu G.Y. & M.C. Wei,",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6652,7 +7126,11 @@
       "main-282",
       "niu-personal-17"
     ],
-    "citation": "Niu G.Y. & M.C. Wei, 2010. Revision of the Siobla annulicornis, acutiscutella and sheni groups (Hymenoptera: Tenthredinidae). Zootaxa, 2643: 45-65."
+    "citation": "Niu G.Y. & M.C. Wei, 2010. Revision of the Siobla annulicornis, acutiscutella and sheni groups (Hymenoptera: Tenthredinidae). Zootaxa, 2643: 45-65.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-285",
@@ -6660,7 +7138,7 @@
     "kind": "article",
     "title": "Review of the genus Eriocampopsis Takeuchi (Hymenoptera: Tenthredinidae) with description of a new species from China",
     "authors": "Wei M.C. & G.Y. Niu.",
-    "journal": null,
+    "journal": "Proceedings of the Entomological Society of Washington",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -6716,7 +7194,11 @@
       "main-285",
       "niu-personal-18"
     ],
-    "citation": "Wei M.C. & G.Y. Niu. 2010. Review of the genus Eriocampopsis Takeuchi (Hymenoptera: Tenthredinidae) with description of a new species from China. Proceedings of the Entomological Society of Washington, 112 (2): 295-301."
+    "citation": "Wei M.C. & G.Y. Niu. 2010. Review of the genus Eriocampopsis Takeuchi (Hymenoptera: Tenthredinidae) with description of a new species from China. Proceedings of the Entomological Society of Washington, 112 (2): 295-301.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-290",
@@ -6753,7 +7235,11 @@
       "main-290",
       "niu-personal-19"
     ],
-    "citation": "Wei M. C. & Niu G.Y. 2010. Ongoing and future sawfly research in China. Hamuli, 1 (1): 6-7."
+    "citation": "Wei M. C. & Niu G.Y. 2010. Ongoing and future sawfly research in China. Hamuli, 1 (1): 6-7.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-291",
@@ -6790,7 +7276,11 @@
       "main-291",
       "niu-personal-20"
     ],
-    "citation": "Niu G.Y. & Wei M.C. 2010. Collecting in Sichuan, Yunnan, Qinghai and Tibet. Hamuli, 1 (1): 13-14."
+    "citation": "Niu G.Y. & Wei M.C. 2010. Collecting in Sichuan, Yunnan, Qinghai and Tibet. Hamuli, 1 (1): 13-14.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-296",
@@ -6798,7 +7288,7 @@
     "kind": "article",
     "title": "侧跗叶蜂属五新种 (膜翅目: 叶蜂科)",
     "authors": "牛耕耘, 魏美才.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -6848,7 +7338,11 @@
       "main-296",
       "niu-personal-22"
     ],
-    "citation": "牛耕耘, 魏美才. 2010. 侧跗叶蜂属五新种 (膜翅目: 叶蜂科). 动物分类学报, 36 (4): 911-921."
+    "citation": "牛耕耘, 魏美才. 2010. 侧跗叶蜂属五新种 (膜翅目: 叶蜂科). 动物分类学报, 36 (4): 911-921.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-297",
@@ -6856,7 +7350,7 @@
     "kind": "article",
     "title": "同域物种形成：物种演化和形成的基本模式？",
     "authors": "魏美才, 聂海燕, 牛耕耘.",
-    "journal": null,
+    "journal": "中南林业科技大学学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -6908,7 +7402,11 @@
       "niu-personal-23"
     ],
     "citation": "魏美才, 聂海燕, 牛耕耘.. 2010. 同域物种形成：物种演化和形成的基本模式？.",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-299",
@@ -6947,7 +7445,11 @@
       "supplement-800",
       "niu-personal-24"
     ],
-    "citation": "魏美才, 牛耕耘. 2010. 膜翅目: 三节叶蜂科, 锤角叶蜂科, 叶蜂科. 徐华潮, 叶坛仙主编, 浙江凤阳山昆虫. 北京: 中国林业出版社. Pp. 337-362. Wei M-C and Niu G-Y. 2010. Hymenoptera: Argidae, Cimbicidae, Tenthredinidae, 337-362. In: Xu H-C and Ye T-X. Insects of Fengyangshan National Nature Reserve. 1-397.（魏美才, 牛耕耘. 2010. 膜翅目: 三节叶蜂科, 锤角叶蜂科, 叶蜂科, 337-362. 见：徐华潮, 叶坛仙编, 浙江凤阳山昆虫. 北京: 中国林业出版社. 1-397."
+    "citation": "魏美才, 牛耕耘. 2010. 膜翅目: 三节叶蜂科, 锤角叶蜂科, 叶蜂科. 徐华潮, 叶坛仙主编, 浙江凤阳山昆虫. 北京: 中国林业出版社. Pp. 337-362. Wei M-C and Niu G-Y. 2010. Hymenoptera: Argidae, Cimbicidae, Tenthredinidae, 337-362. In: Xu H-C and Ye T-X. Insects of Fengyangshan National Nature Reserve. 1-397.（魏美才, 牛耕耘. 2010. 膜翅目: 三节叶蜂科, 锤角叶蜂科, 叶蜂科, 337-362. 见：徐华潮, 叶坛仙编, 浙江凤阳山昆虫. 北京: 中国林业出版社. 1-397.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "main-300",
@@ -6985,7 +7487,11 @@
       "supplement-801",
       "niu-personal-25"
     ],
-    "citation": "魏美才, 牛耕耘, 刘飞. 2010. 扁蜂科, 三节叶蜂科, 锤角叶蜂科, 叶蜂科, 树蜂科, 茎蜂科. 任国栋主编, 六盘山无脊椎动物. 保定: 河北大学出版社. Pp. 332-355."
+    "citation": "魏美才, 牛耕耘, 刘飞. 2010. 扁蜂科, 三节叶蜂科, 锤角叶蜂科, 叶蜂科, 树蜂科, 茎蜂科. 任国栋主编, 六盘山无脊椎动物. 保定: 河北大学出版社. Pp. 332-355.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "main-272",
@@ -6993,7 +7499,7 @@
     "kind": "article",
     "title": "中国平背叶蜂亚科 (膜翅目, 叶蜂科)三新种",
     "authors": "牛耕耘, 魏美才.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7041,7 +7547,11 @@
       "main-272",
       "niu-personal-12"
     ],
-    "citation": "牛耕耘, 魏美才. 2009. 中国平背叶蜂亚科 (膜翅目, 叶蜂科)三新种. 动物分类学报, 34 (1): 161-165."
+    "citation": "牛耕耘, 魏美才. 2009. 中国平背叶蜂亚科 (膜翅目, 叶蜂科)三新种. 动物分类学报, 34 (1): 161-165.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-273",
@@ -7049,7 +7559,7 @@
     "kind": "article",
     "title": "Two new species of potanini group of Tenthredo L. from China (Hymenoptera, Tenthredinidae)",
     "authors": "Wei M., Niu G.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -7096,7 +7606,11 @@
       "main-273",
       "niu-personal-13"
     ],
-    "citation": "Wei M., Niu G. 2009. Two new species of potanini group of Tenthredo L. from China (Hymenoptera, Tenthredinidae). Acta Zootaxonomica Sinica, 34 (2): 241-247."
+    "citation": "Wei M., Niu G. 2009. Two new species of potanini group of Tenthredo L. from China (Hymenoptera, Tenthredinidae). Acta Zootaxonomica Sinica, 34 (2): 241-247.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-276",
@@ -7104,7 +7618,7 @@
     "kind": "article",
     "title": "中国真片叶蜂属四新种 (膜翅目, 叶蜂科)",
     "authors": "牛耕耘, 魏美才.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7153,7 +7667,11 @@
       "main-276",
       "niu-personal-14"
     ],
-    "citation": "牛耕耘, 魏美才. 2009. 中国真片叶蜂属四新种 (膜翅目, 叶蜂科). 动物分类学报, 34 (3): 596-603."
+    "citation": "牛耕耘, 魏美才. 2009. 中国真片叶蜂属四新种 (膜翅目, 叶蜂科). 动物分类学报, 34 (3): 596-603.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-277",
@@ -7161,7 +7679,7 @@
     "kind": "article",
     "title": "中国宽颊叶蜂属一新种 (膜翅目: 叶蜂科)",
     "authors": "魏美才, 牛耕耘.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7207,7 +7725,11 @@
       "main-277",
       "niu-personal-15"
     ],
-    "citation": "魏美才, 牛耕耘. 2009. 中国宽颊叶蜂属一新种 (膜翅目: 叶蜂科). 动物分类学报, 34 (3): 603-606."
+    "citation": "魏美才, 牛耕耘. 2009. 中国宽颊叶蜂属一新种 (膜翅目: 叶蜂科). 动物分类学报, 34 (3): 603-606.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-279",
@@ -7215,7 +7737,7 @@
     "kind": "article",
     "title": "Review of some Southeast Asian sawfly species (Hymenoptera: Tenthredinidae) described by Attila Haris",
     "authors": "Wei, M. Niu G.",
-    "journal": null,
+    "journal": "Zootaxa",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -7289,7 +7811,11 @@
       "main-279",
       "niu-personal-16"
     ],
-    "citation": "Wei, M. Niu G. 2009. Review of some Southeast Asian sawfly species (Hymenoptera: Tenthredinidae) described by Attila Haris. Zootaxa, 2279: 60–68."
+    "citation": "Wei, M. Niu G. 2009. Review of some Southeast Asian sawfly species (Hymenoptera: Tenthredinidae) described by Attila Haris. Zootaxa, 2279: 60–68.",
+    "sci_class": "sci",
+    "sci_label": "SCI",
+    "sci_evidence": "Word条目明确标注SCI",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-249",
@@ -7297,7 +7823,7 @@
     "kind": "article",
     "title": "Two new species of Pamphiliidae from China",
     "authors": "Wei M. Niu G.,",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7348,7 +7874,11 @@
       "main-249",
       "niu-personal-3"
     ],
-    "citation": "Wei M. Niu G., 2008. Two new species of Pamphiliidae from China. Acta Zootaxonomica Sinica, 33 (1): 57-60."
+    "citation": "Wei M. Niu G., 2008. Two new species of Pamphiliidae from China. Acta Zootaxonomica Sinica, 33 (1): 57-60.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-253",
@@ -7356,7 +7886,7 @@
     "kind": "article",
     "title": "中国细锤角叶蜂属一新种 (膜翅目: 锤角叶蜂科)",
     "authors": "魏美才, 牛耕耘.",
-    "journal": null,
+    "journal": "Entomotaxonomia（昆虫分类学报）",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -7405,7 +7935,17 @@
       "main-253",
       "niu-personal-4"
     ],
-    "citation": "魏美才, 牛耕耘. 2008. 中国细锤角叶蜂属一新种 (膜翅目: 锤角叶蜂科). 昆虫分类学报, 30 (1): 57-60."
+    "citation": "魏美才, 牛耕耘. 2008. 中国细锤角叶蜂属一新种 (膜翅目: 锤角叶蜂科). 昆虫分类学报, 30 (1): 57-60.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "2026-11-13补充核对：Entomotaxonomia（昆虫分类学报）不是SCI期刊；应用于本条2008年论文。",
+    "sci_basis_source": "user_confirmation",
+    "sci_confirmation": {
+      "source": "user",
+      "date": "2026-11-13",
+      "journal": "Entomotaxonomia（昆虫分类学报）",
+      "sci": false
+    }
   },
   {
     "id": "main-255",
@@ -7443,7 +7983,11 @@
       "supplement-751",
       "niu-personal-5"
     ],
-    "citation": "魏美才, 钟义海, 牛耕耘. 2008. 河南叶蜂两新亚种和新异名 (膜翅目: 叶蜂科). 河南昆虫分类区系研究, 6: 27-31."
+    "citation": "魏美才, 钟义海, 牛耕耘. 2008. 河南叶蜂两新亚种和新异名 (膜翅目: 叶蜂科). 河南昆虫分类区系研究, 6: 27-31.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-257",
@@ -7481,7 +8025,11 @@
       "supplement-754",
       "niu-personal-6"
     ],
-    "citation": "魏美才, 牛耕耘, 钟义海. 2008. 2003-2006年河南叶蜂考察报告. 河南昆虫分类区系研究, 6: 167-197."
+    "citation": "魏美才, 牛耕耘, 钟义海. 2008. 2003-2006年河南叶蜂考察报告. 河南昆虫分类区系研究, 6: 167-197.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-258",
@@ -7519,7 +8067,11 @@
       "supplement-752",
       "niu-personal-7"
     ],
-    "citation": "魏美才, 聂海燕, 肖炜, 牛耕耘. 2008. 河南省叶蜂种类名录. 河南昆虫分类区系研究, 6: 198-215."
+    "citation": "魏美才, 聂海燕, 肖炜, 牛耕耘. 2008. 河南省叶蜂种类名录. 河南昆虫分类区系研究, 6: 198-215.",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-259",
@@ -7527,7 +8079,7 @@
     "kind": "article",
     "title": "Three new species of the genus Tenthredo Linnaeus (Hymenoptera, Tenthredinidae) from China",
     "authors": "Niu G., Wei M.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -7575,7 +8127,11 @@
       "main-259",
       "niu-personal-8"
     ],
-    "citation": "Niu G., Wei M. 2008. Three new species of the genus Tenthredo Linnaeus (Hymenoptera, Tenthredinidae) from China. Acta Zootaxonomica Sinica, 33 (3): 514-519."
+    "citation": "Niu G., Wei M. 2008. Three new species of the genus Tenthredo Linnaeus (Hymenoptera, Tenthredinidae) from China. Acta Zootaxonomica Sinica, 33 (3): 514-519.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-261",
@@ -7583,7 +8139,7 @@
     "kind": "article",
     "title": "中国突瓣叶蜂属一新种 (膜翅目: 叶蜂科)及于氏突瓣叶蜂雌性记述",
     "authors": "魏美才, 牛耕耘.",
-    "journal": null,
+    "journal": "动物分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7636,7 +8192,11 @@
       "main-261",
       "niu-personal-9"
     ],
-    "citation": "魏美才, 牛耕耘. 2008. 中国突瓣叶蜂属一新种 (膜翅目: 叶蜂科)及于氏突瓣叶蜂雌性记述. 动物分类学报, 33 (3): 615-618."
+    "citation": "魏美才, 牛耕耘. 2008. 中国突瓣叶蜂属一新种 (膜翅目: 叶蜂科)及于氏突瓣叶蜂雌性记述. 动物分类学报, 33 (3): 615-618.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-262",
@@ -7644,7 +8204,7 @@
     "kind": "article",
     "title": "On the genus Yushengliua Wei et Nie (Hymenoptera: Tenthredinidae) with description of a new species from China",
     "authors": "Wei M.. Niu G.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7694,7 +8254,11 @@
       "main-262",
       "niu-personal-10"
     ],
-    "citation": "Wei M.. Niu G. 2008. On the genus Yushengliua Wei et Nie (Hymenoptera: Tenthredinidae) with description of a new species from China. Acta Zootaxonomica Sinica, 33 (4):702-705."
+    "citation": "Wei M.. Niu G. 2008. On the genus Yushengliua Wei et Nie (Hymenoptera: Tenthredinidae) with description of a new species from China. Acta Zootaxonomica Sinica, 33 (4):702-705.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-265",
@@ -7702,7 +8266,7 @@
     "kind": "article",
     "title": "海南叶蜂补充记录附记中国蔡氏叶蜂属一新种 (膜翅目: 叶蜂总科)",
     "authors": "魏美才, 牛耕耘.",
-    "journal": null,
+    "journal": "昆虫分类学报",
     "doi": null,
     "status": "published",
     "identifier": null,
@@ -7758,7 +8322,11 @@
       "main-265",
       "niu-personal-11"
     ],
-    "citation": "魏美才, 牛耕耘. 2008. 海南叶蜂补充记录附记中国蔡氏叶蜂属一新种 (膜翅目: 叶蜂总科). 昆虫分类学报, 30 (4): 287-292."
+    "citation": "魏美才, 牛耕耘. 2008. 海南叶蜂补充记录附记中国蔡氏叶蜂属一新种 (膜翅目: 叶蜂总科). 昆虫分类学报, 30 (4): 287-292.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-244",
@@ -7766,7 +8334,7 @@
     "kind": "article",
     "title": "Two new species of Selandriinae from China (Hymenoptera, Tenthredinidae)",
     "authors": "Wei M, Niu G.",
-    "journal": null,
+    "journal": "Acta Zootaxonomica Sinica",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7818,7 +8386,11 @@
       "niu-personal-1"
     ],
     "citation": "Wei M, Niu G.. 2007. Two new species of Selandriinae from China (Hymenoptera, Tenthredinidae).",
-    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。"
+    "catalog_note": "页面题名依PDF修订；原目录题名另存于本地核对记录。",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "main-247",
@@ -7826,7 +8398,7 @@
     "kind": "article",
     "title": "中国粘叶蜂属一新种 (膜翅目: 叶蜂科)",
     "authors": "魏美才, 牛耕耘.",
-    "journal": null,
+    "journal": "昆虫分类学报",
     "doi": "",
     "status": "published",
     "identifier": null,
@@ -7872,7 +8444,11 @@
       "main-247",
       "niu-personal-2"
     ],
-    "citation": "魏美才, 牛耕耘. 2007. 中国粘叶蜂属一新种 (膜翅目: 叶蜂科). 昆虫分类学报, 29 (4): 301-305."
+    "citation": "魏美才, 牛耕耘. 2007. 中国粘叶蜂属一新种 (膜翅目: 叶蜂科). 昆虫分类学报, 29 (4): 301-305.",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   },
   {
     "id": "patent-200810032129",
@@ -7905,7 +8481,11 @@
     "kindLabel": "专利",
     "evidenceLabel": "证书 / 法律状态待核对",
     "source_ids": [],
-    "citation": ""
+    "citation": "",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-200810032131",
@@ -7938,7 +8518,11 @@
     "kindLabel": "专利",
     "evidenceLabel": "证书 / 法律状态待核对",
     "source_ids": [],
-    "citation": ""
+    "citation": "",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-200810032128",
@@ -7971,7 +8555,11 @@
     "kindLabel": "专利",
     "evidenceLabel": "证书 / 法律状态待核对",
     "source_ids": [],
-    "citation": ""
+    "citation": "",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-CN116130002A",
@@ -8013,7 +8601,11 @@
       "position": 3,
       "total": 8
     },
-    "verified_on": "2026-10-30"
+    "verified_on": "2026-10-30",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "software-2023SR0677949",
@@ -8056,7 +8648,11 @@
       "relationship": "个人成果收录",
       "rank": null,
       "evidence": "证书未载个人完成人及排序"
-    }
+    },
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-CN118522347B",
@@ -8098,7 +8694,11 @@
       "position": 1,
       "total": 4
     },
-    "certificate_issuer": "国家知识产权局"
+    "certificate_issuer": "国家知识产权局",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-CN118280456B",
@@ -8140,7 +8740,11 @@
       "position": 3,
       "total": 7
     },
-    "certificate_issuer": "国家知识产权局"
+    "certificate_issuer": "国家知识产权局",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-CN117116361B",
@@ -8182,7 +8786,11 @@
       "position": 3,
       "total": 8
     },
-    "certificate_issuer": "国家知识产权局"
+    "certificate_issuer": "国家知识产权局",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "patent-CN117133351B",
@@ -8224,7 +8832,11 @@
       "position": 3,
       "total": 6
     },
-    "certificate_issuer": "国家知识产权局"
+    "certificate_issuer": "国家知识产权局",
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
   },
   {
     "id": "software-2023SR1485943",
@@ -8267,6 +8879,42 @@
       "relationship": "个人成果收录",
       "rank": null,
       "evidence": "证书未载个人完成人及排序"
-    }
+    },
+    "sci_class": "not-applicable",
+    "sci_label": "不适用",
+    "sci_evidence": "非论文成果",
+    "sci_basis_source": "not-applicable"
+  },
+  {
+    "id": "niu-personal-21",
+    "number": 146,
+    "year": 2010,
+    "kind": "article",
+    "kindLabel": "论文 / 预印本",
+    "title": "Two New Species of Tenthredo (Hymenoptera, Tenthredinidae) From China with A Key To subflava Species Group",
+    "authors": "Zhao F.; Wei M.; Niu G.",
+    "journal": "Acta Zootaxonomica Sinica",
+    "status": "published",
+    "doi": null,
+    "identifier": null,
+    "research_tags": [
+      "昆虫分类学"
+    ],
+    "taxonomic_actions": [],
+    "taxonomy_summary": "",
+    "grants": [],
+    "funding_status": "缺少PDF，待核对",
+    "funding_notes": "",
+    "pdf_status": "missing",
+    "evidenceLabel": "缺少PDF",
+    "source_ids": [
+      "niu-personal-21"
+    ],
+    "citation": "Zhao f., Wei M. & Niu G. 2010. Two New Species of Tenthredo (Hymenoptera, Tenthredinidae) From China with A Key To subflava Species Group. Acta Zootaxonomica Sinica, 35(3): 460-465.",
+    "source_note": "牛耕耘论著目录第21条；2026-11-13补充收录",
+    "sci_class": "non",
+    "sci_label": "非 SCI",
+    "sci_evidence": "对应Word条目未标SCI；本预览按清单口径归类，不代表已查询WoS排除收录",
+    "sci_basis_source": "word"
   }
 ]
